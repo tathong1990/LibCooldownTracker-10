@@ -79,7 +79,7 @@ LCT_SpellData[43265] = {
 -- Wraith Walk
 LCT_SpellData[212552] = {
 	class = "DEATHKNIGHT",
-	talent = true,
+	--talent = true,
 	offensive = true,
 	duration = 3,
 	cooldown = 60
@@ -87,7 +87,7 @@ LCT_SpellData[212552] = {
 -- Dark Simulacrum
 LCT_SpellData[77606] = {
 	class = "DEATHKNIGHT",
-	talent = true,
+	--talent = true,
 	duration = 8,
 	cooldown = 25
 }
@@ -97,7 +97,7 @@ LCT_SpellData[77606] = {
 LCT_SpellData[108194] = {
 	class = "DEATHKNIGHT",
 	specID = { SPEC_DK_FROST, SPEC_DK_UNHOLY },
-	talent = true,
+	--talent = true,
 	stun = true,
 	silence = true,
 	cooldown = 45
@@ -106,7 +106,7 @@ LCT_SpellData[108194] = {
 LCT_SpellData[48743] = {
 	class = "DEATHKNIGHT",
 	specID = { SPEC_DK_FROST, SPEC_DK_UNHOLY },
-	talent = true,
+	--talent = true,
 	heal = true,
 	cooldown = 120
 }
@@ -150,7 +150,7 @@ LCT_SpellData[49028] = {
 LCT_SpellData[47476] = {
 	class = "DEATHKNIGHT",
 	specID = { SPEC_DK_BLOOD },
-	talent = true,
+	--talent = true,
 	silence = true,
 	cooldown = 60
 }
@@ -158,49 +158,49 @@ LCT_SpellData[47476] = {
 LCT_SpellData[194844] = {
 	class = "DEATHKNIGHT",
 	specID = { SPEC_DK_BLOOD },
-	talent = true,
+	--talent = true,
 	cooldown = 60
 }
 -- Death Chain
 LCT_SpellData[203173] = {
 	class = "DEATHKNIGHT",
 	specID = { SPEC_DK_BLOOD },
-	talent = true,
+	--talent = true,
 	cooldown = 30
 }
 -- Rune Strike
 LCT_SpellData[210764] = {
 	class = "DEATHKNIGHT",
 	specID = { SPEC_DK_BLOOD },
-	talent = true,
+	--talent = true,
 	cooldown = 60 -- reduced by 1s every rune used
 }
 -- Consumption
 LCT_SpellData[274156] = {
 	class = "DEATHKNIGHT",
 	specID = { SPEC_DK_BLOOD },
-	talent = true,
+	--talent = true,
 	cooldown = 45
 }
 -- Mark of Blood
 LCT_SpellData[206940] = {
 	class = "DEATHKNIGHT",
 	specID = { SPEC_DK_BLOOD },
-	talent = true,
+	--talent = true,
 	cooldown = 6
 }
 -- Tombstone
 LCT_SpellData[219809] = {
 	class = "DEATHKNIGHT",
 	specID = { SPEC_DK_BLOOD },
-	talent = true,
+	--talent = true,
 	cooldown = 60
 }
 -- Murderous Intent
 LCT_SpellData[207018] = {
 	class = "DEATHKNIGHT",
 	specID = { SPEC_DK_BLOOD },
-	talent = true,
+	--talent = true,
 	offensive = true,
 	cooldown = 20,
 	replaces = 56222
@@ -246,7 +246,7 @@ LCT_SpellData[194913] = {
 	class = "DEATHKNIGHT",
 	specID = { SPEC_DK_FROST },
 	offensive = true,
-	talent = true,
+	--talent = true,
 	cooldown = 6
 }
 -- Frostwyrm's Fury
@@ -262,7 +262,7 @@ LCT_SpellData[279302] = {
 LCT_SpellData[207167] = {
 	class = "DEATHKNIGHT",
 	specID = { SPEC_DK_FROST },
-	talent = true,
+	--talent = true,
 	cc = true,
 	cooldown = 60
 }
@@ -270,14 +270,14 @@ LCT_SpellData[207167] = {
 LCT_SpellData[57330] = {
 	class = "DEATHKNIGHT",
 	specID = { SPEC_DK_FROST },
-	talent = true,
+	--talent = true,
 	cooldown = 45
 }
 -- Chill Streak	
 LCT_SpellData[305392] = {	
 	class = "DEATHKNIGHT",	
 	specID = { SPEC_DK_FROST },	
-	talent = true,	
+	--talent = true,	
 	duration = 4,
 	cooldown = 45	
 }
@@ -324,7 +324,7 @@ LCT_SpellData[275699] = {
 LCT_SpellData[288853] = {
 	class = "DEATHKNIGHT",
 	specID = { SPEC_DK_UNHOLY },
-	talent = true,
+	--talent = true,
 	offensive = true,
 	cooldown = 90,
   duration = 25
@@ -333,7 +333,7 @@ LCT_SpellData[288853] = {
 LCT_SpellData[49206] = {
 	class = "DEATHKNIGHT",
 	specID = { SPEC_DK_UNHOLY },
-	talent = true,
+	--talent = true,
 	offensive = true,
 	duration = 30,
 	cooldown = 180
@@ -342,7 +342,7 @@ LCT_SpellData[49206] = {
 LCT_SpellData[115989] = {
 	class = "DEATHKNIGHT",
 	specID = { SPEC_DK_UNHOLY },
-	talent = true,
+	--talent = true,
 	offensive = true,
 	duration = 6,
 	cooldown = 45
@@ -351,7 +351,7 @@ LCT_SpellData[115989] = {
 LCT_SpellData[152280] = {
 	class = "DEATHKNIGHT",
 	specID = { SPEC_DK_UNHOLY },
-	talent = true,
+	--talent = true,
 	offensive = true,
 	replaces = 43265,
 	duration = 10,
@@ -361,7 +361,7 @@ LCT_SpellData[152280] = {
 LCT_SpellData[207289] = {
 	class = "DEATHKNIGHT",
 	specID = { SPEC_DK_UNHOLY },
-	talent = true,
+	--talent = true,
 	offensive = true,
 	duration = 12,
 	cooldown = 75

@@ -58,7 +58,7 @@ LCT_SpellData[191427] = {
 -- Reverse Magic
 LCT_SpellData[205604] = {
 	class = "DEMONHUNTER",
-	talent = true,
+	--talent = true,
 	cooldown = 60,
 }
 
@@ -98,7 +98,7 @@ LCT_SpellData[196718] = {
 LCT_SpellData[196555] = {
 	class = "DEMONHUNTER",
 	specID = { SPEC_DH_HAVOC },
-	talent = true,
+	--talent = true,
 	defensive = true,
 	duration = 6,
 	cooldown = 180
@@ -107,7 +107,7 @@ LCT_SpellData[196555] = {
 LCT_SpellData[258920] = {
 	class = "DEMONHUNTER",
 	specID = { SPEC_DH_HAVOC },
-	talent = true,
+	--talent = true,
 	duration = 10,
 	cooldown = 30
 }
@@ -115,14 +115,14 @@ LCT_SpellData[258920] = {
 LCT_SpellData[206491] = {
 	class = "DEMONHUNTER",
 	specID = { SPEC_DH_HAVOC },
-	talent = true,
+	--talent = true,
 	cooldown = 120
 }
 -- Mana Break
 LCT_SpellData[203704] = {
 	class = "DEMONHUNTER",
 	specID = { SPEC_DH_HAVOC },
-	talent = true,
+	--talent = true,
 	offensive = true,
 	cooldown = 60
 }
@@ -130,7 +130,7 @@ LCT_SpellData[203704] = {
 LCT_SpellData[235903] = {
 	class = "DEMONHUNTER",
 	specID = { SPEC_DH_HAVOC },
-	talent = true,
+	--talent = true,
 	offensive = true,
 	cooldown = 10
 }
@@ -138,21 +138,21 @@ LCT_SpellData[235903] = {
 LCT_SpellData[258860] = {
 	class = "DEMONHUNTER",
 	specID = { SPEC_DH_HAVOC },
-	talent = true,
+	--talent = true,
 	cooldown = 20,
 }
 -- Eye of Leotheras
 LCT_SpellData[206649] = {
 	class = "DEMONHUNTER",
 	specID = { SPEC_DH_HAVOC },
-	talent = true,
+	--talent = true,
 	cooldown = 45,
 }
 -- Fel Barrage
 LCT_SpellData[258925] = {
 	class = "DEMONHUNTER",
 	specID = { SPEC_DH_HAVOC },
-	talent = true,
+	--talent = true,
 	offensive = true,
 	duration = 3,
 	cooldown = 60,
@@ -161,7 +161,7 @@ LCT_SpellData[258925] = {
 LCT_SpellData[211881] = {
 	class = "DEMONHUNTER",
 	specID = { SPEC_DH_HAVOC },
-	talent = true,
+	--talent = true,
 	stun = true,
 	duration = 4,
 	cooldown = 30,
@@ -170,14 +170,14 @@ LCT_SpellData[211881] = {
 LCT_SpellData[206803] = {
 	class = "DEMONHUNTER",
 	specID = { SPEC_DH_HAVOC },
-	talent = true,
+	--talent = true,
 	cooldown = 60,
 }
 -- Imprison (Detainment)
 LCT_SpellData[221527] = {
     class = "DEMONHUNTER",
     cc = true,
-    talent = true,
+    --talent = true,
     replaces = 217832,
     cooldown = 60
 }
@@ -229,14 +229,14 @@ LCT_SpellData[189110] = {
 LCT_SpellData[202138] = {
 	class = "DEMONHUNTER",
 	specID = { SPEC_DH_VENGEANCE },
-	talent = true,
+	--talent = true,
 	cooldown = 90
 }
 -- Fel Devastation
 LCT_SpellData[212084] = {
 	class = "DEMONHUNTER",
 	specID = { SPEC_DH_VENGEANCE },
-	talent = true,
+	--talent = true,
 	offensive = true,
 	cooldown = 60
 }
@@ -244,14 +244,14 @@ LCT_SpellData[212084] = {
 LCT_SpellData[205629] = {
 	class = "DEMONHUNTER",
 	specID = { SPEC_DH_VENGEANCE },
-	talent = true,
+	--talent = true,
 	cooldown = 45
 }
 -- Illidan's Grasp
 LCT_SpellData[205630] = {
 	class = "DEMONHUNTER",
 	specID = { SPEC_DH_VENGEANCE },
-	talent = true,
+	--talent = true,
 	stun = true,
 	cooldown = 60
 }
@@ -259,7 +259,7 @@ LCT_SpellData[205630] = {
 LCT_SpellData[263642] = {
 	class = "DEMONHUNTER",
 	specID = { SPEC_DH_VENGEANCE },
-	talent = true,
+	--talent = true,
 	cooldown = 4.5,
 	-- replaces = 203782, -- V: this is Shear, but it has no CD
 }
@@ -267,7 +267,7 @@ LCT_SpellData[263642] = {
 LCT_SpellData[263648] = {
 	class = "DEMONHUNTER",
 	specID = { SPEC_DH_VENGEANCE },
-	talent = true,
+	--talent = true,
 	defensive = true,
 	cooldown = 30,
 	duration = 12,

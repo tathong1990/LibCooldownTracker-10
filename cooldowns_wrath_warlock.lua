@@ -125,7 +125,7 @@ LCT_SpellData[29858] = {
 LCT_SpellData[18288] = {
   class = "WARLOCK",
   cooldown = 180,
-  talent = true,
+  --talent = true,
   specID = { SPEC_WARLOCK_AFFLICTION },
 }
 
@@ -203,7 +203,7 @@ LCT_SpellData[48011] = 19505
 LCT_SpellData[50796] = {
   class = "WARLOCK",
   cooldown = 12,
-  talent = true,
+  --talent = true,
   specID = { SPEC_WARLOCK_DESTRUCTION },
 }
 
@@ -211,7 +211,7 @@ LCT_SpellData[50796] = {
 LCT_SpellData[48141] = {
   class = "WARLOCK",
   cooldown = 8,
-  talent = true,
+  --talent = true,
   specID = { SPEC_WARLOCK_AFFLICTION },
 }
 
@@ -219,7 +219,7 @@ LCT_SpellData[48141] = {
 LCT_SpellData[59672] = {
   class = "WARLOCK",
   cooldown = 180,
-  talent = true,
+  --talent = true,
   specID = { SPEC_WARLOCK_DEMONOLOGY },
 }
 

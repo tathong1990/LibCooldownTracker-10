@@ -29,14 +29,14 @@ LCT_SpellData[31709] = 8998
 LCT_SpellData[33831] = {
   cooldown = 180,
   class = "DRUID",
-  talent = true,
+  --talent = true,
 }
 
 -- Nature's Grasp
 LCT_SpellData[16689] = {
   cooldown = 60,
   class = "DRUID",
-  talent = true,
+  --talent = true,
 }
 LCT_SpellData[27009] = 16689
 LCT_SpellData[16811] = 16689
@@ -86,7 +86,7 @@ LCT_SpellData[5229] = {
 LCT_SpellData[18562] = {
   cooldown = 15,
   class = "DRUID",
-  talent = true,
+  --talent = true,
 }
 
 -- Growl
@@ -107,7 +107,7 @@ LCT_SpellData[9821] = 1850
 LCT_SpellData[16979] = {
   cooldown = 15,
   class = "DRUID",
-  talent = true,
+  --talent = true,
 }
 
 -- Rebirth
@@ -143,7 +143,7 @@ LCT_SpellData[17392] = 16857
 LCT_SpellData[17116] = {
   cooldown = 180,
   class = "DRUID",
-  talent = true,
+  --talent = true,
 }
 
 -- Tranquility

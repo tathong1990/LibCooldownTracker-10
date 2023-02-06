@@ -8,7 +8,7 @@ local SPEC_MAGE_FROST = 64
 LCT_SpellData[12042] = {
   class = "MAGE",
   cooldown = 120,
-  talent = true,
+  --talent = true,
   specID = { SPEC_MAGE_ARCANE },
 }
 
@@ -16,7 +16,7 @@ LCT_SpellData[12042] = {
 LCT_SpellData[12043] = {
   class = "MAGE",
   cooldown = 120,
-  talent = true,
+  --talent = true,
   specID = { SPEC_MAGE_ARCANE },
 }
 
@@ -128,7 +128,7 @@ LCT_SpellData[11958] = {
   opt_lower_cooldown = 384,
   class = "MAGE",
   specID = { SPEC_MAGE_FROST },
-  talent = true,
+  --talent = true,
   resets = { 122, 120, 12472, 11426, 31687, 45438, 44572 },
 }
 
@@ -136,7 +136,7 @@ LCT_SpellData[11958] = {
 LCT_SpellData[31661] = {
   cooldown = 20,
   class = "MAGE",
-  talent = true,
+  --talent = true,
   specID = { SPEC_MAGE_FIRE },
 }
 LCT_SpellData[33041] = 31661
@@ -156,7 +156,7 @@ LCT_SpellData[1953] = {
 LCT_SpellData[11129] = {
   cooldown = 120,
   class = "MAGE",
-  talent = true,
+  --talent = true,
   specID = { SPEC_MAGE_FIRE },
 }
 
@@ -164,7 +164,7 @@ LCT_SpellData[11129] = {
 LCT_SpellData[12472] = {
   cooldown = 180,
   class = "MAGE",
-  talent = true,
+  --talent = true,
   specID = { SPEC_MAGE_FROST },
 }
 
@@ -179,7 +179,7 @@ LCT_SpellData[2139] = {
 LCT_SpellData[11113] = {
   cooldown = 30,
   class = "MAGE",
-  talent = true,
+  --talent = true,
   specID = { SPEC_MAGE_FIRE },
 }
 LCT_SpellData[13018] = 11113
@@ -196,7 +196,7 @@ LCT_SpellData[11426] = {
   cooldown = 30,
   opt_lower_cooldown = 24,
   class = "MAGE",
-  talent = true,
+  --talent = true,
   specID = { SPEC_MAGE_FROST },
   detects = { 11958 }
 }
@@ -212,7 +212,7 @@ LCT_SpellData[43039] = 11426
 LCT_SpellData[31687] = {
   cooldown = 180,
   class = "MAGE",
-  talent = true,
+  --talent = true,
   specID = { SPEC_MAGE_FROST },
 }
 
@@ -241,6 +241,6 @@ LCT_SpellData[55342] = {
 LCT_SpellData[44572] = {
   class = "MAGE",
   cooldown = 30,
-  talent = true,
+  --talent = true,
   specID = { SPEC_MAGE_FROST },
 }

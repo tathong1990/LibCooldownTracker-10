@@ -35,7 +35,7 @@ LCT_SpellData[14273] = 781
 LCT_SpellData[19503] = {
   class = "HUNTER",
   cooldown = 30,
-  talent = true,
+  --talent = true,
 }
 
 -- Dash
@@ -50,7 +50,7 @@ LCT_SpellData[23109] = 23099
 LCT_SpellData[19263] = {
   class = "HUNTER",
   cooldown = 300,
-  talent = true,
+  --talent = true,
 }
 
 -- Scorpid Poison
@@ -130,14 +130,14 @@ LCT_SpellData[14287] = 3044
 LCT_SpellData[19574] = {
   class = "HUNTER",
   cooldown = 120,
-  talent = true,
+  --talent = true,
 }
 
 -- Intimidation
 LCT_SpellData[19577] = {
   class = "HUNTER",
   cooldown = 60,
-  talent = true,
+  --talent = true,
 }
 
 -- Prowl
@@ -182,7 +182,7 @@ LCT_SpellData[27067] = 19306
 LCT_SpellData[19386] = {
   class = "HUNTER",
   cooldown = 120,
-  talent = true,
+  --talent = true,
 }
 LCT_SpellData[24132] = 19386
 LCT_SpellData[24133] = 19386
@@ -231,7 +231,7 @@ LCT_SpellData[35346] = {
 LCT_SpellData[23989] = {
   class = "HUNTER",
   cooldown = 300,
-  talent = true,
+  --talent = true,
   resets = {} -- TODO
 }
 
@@ -239,7 +239,7 @@ LCT_SpellData[23989] = {
 LCT_SpellData[34490] = {
   class = "HUNTER",
   cooldown = 20,
-  talent = true,
+  --talent = true,
 }
 
 -- Charge

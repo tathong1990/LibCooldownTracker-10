@@ -26,7 +26,7 @@ LCT_SpellData[48575] = 8998
 LCT_SpellData[33831] = {
   cooldown = 180,
   class = "DRUID",
-  talent = true,
+  --talent = true,
   duration = 30,
   specID = { SPEC_DRUID_BALANCE },
 }
@@ -87,7 +87,7 @@ LCT_SpellData[5229] = {
 LCT_SpellData[18562] = {
   class = "DRUID",
   cooldown = 15,
-  talent = true,
+  --talent = true,
   specID = { SPEC_DRUID_RESTO },
 }
 
@@ -109,7 +109,7 @@ LCT_SpellData[33357] = 1850
 LCT_SpellData[16979] = {
   class = "DRUID",
   cooldown = 15,
-  talent = true,
+  --talent = true,
   specID = { SPEC_DRUID_FERAL },
 }
 
@@ -129,7 +129,7 @@ LCT_SpellData[48477] = 20484
 LCT_SpellData[33878] = {
   class = "DRUID",
   cooldown = 6,
-  talent = true,
+  --talent = true,
   specID = { SPEC_DRUID_FERAL },
 }
 LCT_SpellData[33986] = 33878
@@ -148,7 +148,7 @@ LCT_SpellData[16857] = {
 LCT_SpellData[17116] = {
   class = "DRUID",
   cooldown = 180,
-  talent = true,
+  --talent = true,
   cooldown_starts_on_dispel = true,
   cooldown_starts_on_aura_fade = true,
   specID = { SPEC_DRUID_RESTO },
@@ -181,7 +181,7 @@ LCT_SpellData[29166] = {
 LCT_SpellData[48438] = {
   cooldown = 6,
   class = "DRUID",
-  talent = true,
+  --talent = true,
   specID = { SPEC_DRUID_RESTO },
 }
 
@@ -189,7 +189,7 @@ LCT_SpellData[48438] = {
 LCT_SpellData[50334] = {
   cooldown = 180,
   class = "DRUID",
-  talent = true,
+  --talent = true,
   specID = { SPEC_DRUID_FERAL },
 }
 
@@ -197,7 +197,7 @@ LCT_SpellData[50334] = {
 LCT_SpellData[48505] = {
   cooldown = 180,
   class = "DRUID",
-  talent = true,
+  --talent = true,
   duration = 10,
   specID = { SPEC_DRUID_BALANCE },
 }

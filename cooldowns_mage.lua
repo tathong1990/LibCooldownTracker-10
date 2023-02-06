@@ -21,7 +21,7 @@ LCT_SpellData[1953] = {
 LCT_SpellData[212653] = {
 	class = "MAGE",
 	defensive = true,
-	talent = true,
+	--talent = true,
 	charges = 2,
 	cooldown = 20,
 	replaces = 1953
@@ -84,7 +84,7 @@ LCT_SpellData[342245] = {
 LCT_SpellData[198111] = {
 	class = "MAGE",
 	defensive = true,
-	talent = true,
+	--talent = true,
 	duration = 6,
 	cooldown = 45
 }
@@ -92,13 +92,13 @@ LCT_SpellData[198111] = {
 LCT_SpellData[198100] = {
 	class = "MAGE",
 	defensive = true,
-	talent = true,
+	--talent = true,
 	cooldown = 30
 }
 -- Ring of Frost
 LCT_SpellData[113724] = {
 	class = "MAGE",
-	talent = true,
+	--talent = true,
 	cc = true,
 	duration = 10,
 	cooldown = 45
@@ -106,7 +106,7 @@ LCT_SpellData[113724] = {
 -- Rune of Power
 LCT_SpellData[116011] = {
 	class = "MAGE",
-	talent = true,
+	--talent = true,
 	charges = 2,
 	cooldown = 40
 }
@@ -180,7 +180,7 @@ LCT_SpellData[212801] = {
 LCT_SpellData[198158] = {
 	class = "MAGE",
 	specID = { SPEC_MAGE_ARCANE },
-	talent = true,
+	--talent = true,
 	duration = 5,
 	cooldown = 60
 }
@@ -188,28 +188,28 @@ LCT_SpellData[198158] = {
 LCT_SpellData[153626] = {
 	class = "MAGE",
 	specID = { SPEC_MAGE_ARCANE },
-	talent = true,
+	--talent = true,
 	cooldown = 20
 }
 -- Supernova
 LCT_SpellData[157980] = {
 	class = "MAGE",
 	specID = { SPEC_MAGE_ARCANE },
-	talent = true,
+	--talent = true,
 	cooldown = 25
 }
 -- Charged Up
 LCT_SpellData[205032] = {
 	class = "MAGE",
 	specID = { SPEC_MAGE_ARCANE },
-	talent = true,
+	--talent = true,
 	cooldown = 40
 }
 -- Arcanosphere
 LCT_SpellData[353128] = {
 	class = "MAGE",
 	specID = { SPEC_MAGE_ARCANE },
-	talent = true,
+	--talent = true,
 	cooldown = 45
 }
 
@@ -256,7 +256,7 @@ LCT_SpellData[86949] = {
 LCT_SpellData[157981] = {
 	class = "MAGE",
 	specID = { SPEC_MAGE_FIRE },
-	talent = true,
+	--talent = true,
 	offensive = true,
 	cooldown = 25
 }
@@ -264,21 +264,21 @@ LCT_SpellData[157981] = {
 LCT_SpellData[44457] = {
 	class = "MAGE",
 	specID = { SPEC_MAGE_FIRE },
-	talent = true,
+	--talent = true,
 	cooldown = 12
 }
 -- Meteor
 LCT_SpellData[153561] = {
 	class = "MAGE",
 	specID = { SPEC_MAGE_FIRE },
-	talent = true,
+	--talent = true,
 	cooldown = 45
 }
 -- Phoenix Flames
 LCT_SpellData[257541] = {
 	class = "MAGE",
 	specID = { SPEC_MAGE_FIRE },
-	talent = true,
+	--talent = true,
 	cooldown = 30,
 	charges = 3,
 }
@@ -286,7 +286,7 @@ LCT_SpellData[257541] = {
 LCT_SpellData[353082] = {
 	class = "MAGE",
 	specID = { SPEC_MAGE_FIRE },
-	talent = true,
+	--talent = true,
 	cooldown = 30,
 }
 
@@ -339,14 +339,14 @@ LCT_SpellData[31687] = {
 LCT_SpellData[153595] = {
 	class = "MAGE",
 	specID = { SPEC_MAGE_FROST },
-	talent = true,
+	--talent = true,
 	cooldown = 30
 }
 -- Ice Form
 LCT_SpellData[198144] = {
 	class = "MAGE",
 	specID = { SPEC_MAGE_FROST },
-	talent = true,
+	--talent = true,
 	duration = 12,
 	cooldown = 60,
 	replaces = 12472 -- Icy Veins
@@ -355,14 +355,14 @@ LCT_SpellData[198144] = {
 LCT_SpellData[157997] = {
 	class = "MAGE",
 	specID = { SPEC_MAGE_FROST },
-	talent = true,
+	--talent = true,
 	cooldown = 25
 }
 -- Ray of Frost
 LCT_SpellData[205021] = {
 	class = "MAGE",
 	specID = { SPEC_MAGE_FROST },
-	talent = true,
+	--talent = true,
 	offensive = true,
 	cooldown = 75
 }
@@ -370,7 +370,7 @@ LCT_SpellData[205021] = {
 LCT_SpellData[108839] = {
 	class = "MAGE",
 	specID = { SPEC_MAGE_FROST },
-	talent = true,
+	--talent = true,
 	cooldown = 20,
 	charges = 3
 }
@@ -378,7 +378,7 @@ LCT_SpellData[108839] = {
 LCT_SpellData[257537] = {
 	class = "MAGE",
 	specID = { SPEC_MAGE_FROST },
-	talent = true,
+	--talent = true,
 	offensive = true,
 	cooldown = 45,
 }
@@ -386,7 +386,7 @@ LCT_SpellData[257537] = {
 LCT_SpellData[352278] = {
 	class = "MAGE",
 	specID = { SPEC_MAGE_FROST },
-	talent = true,
+	--talent = true,
 	cooldown = 90,
 }
 

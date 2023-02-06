@@ -101,7 +101,7 @@ LCT_SpellData[1022] = {
 -- Rebuke
 LCT_SpellData[96231] = {
 	class = "PALADIN",
-	talent = true,
+	--talent = true,
 	interrupt = true,
 	cooldown = 15
 }
@@ -119,7 +119,7 @@ LCT_SpellData[498] = {
 -- Reign of Endless Kings
 LCT_SpellData[337850] = {
 	class = "PALADIN",
-	talent = true, -- utter lie
+	--talent = true, -- utter lie
 	defensive = true,
 	duration = 4,
 	cooldown = 45,
@@ -128,7 +128,7 @@ LCT_SpellData[337850] = {
 -- Repentance
 LCT_SpellData[20066] = {
 	class = "PALADIN",
-	talent = true,
+	--talent = true,
 	cc = true,
 	cooldown = 15
 }
@@ -136,7 +136,7 @@ LCT_SpellData[20066] = {
 LCT_SpellData[114165] = {
 	class = "PALADIN",
 	specID = { SPEC_PALADIN_HOLY },
-	talent = true,
+	--talent = true,
 	heal = true,
 	cooldown = 20
 }
@@ -144,7 +144,7 @@ LCT_SpellData[114165] = {
 LCT_SpellData[114158] = {
 	class = "PALADIN",
 	specID = { SPEC_PALADIN_HOLY },
-	talent = true,
+	--talent = true,
 	offensive = true,
 	heal = true,
 	duration = 16,
@@ -154,7 +154,7 @@ LCT_SpellData[114158] = {
 LCT_SpellData[115750] = {
 	class = "PALADIN",
 	cc = true,
-	talent = true,
+	--talent = true,
 	cooldown = 90
 }
 
@@ -203,7 +203,7 @@ LCT_SpellData[199448] = {
 	class = "PALADIN",
 	specID = { SPEC_PALADIN_HOLY },
 	defensive = true,
-	talent = true,
+	--talent = true,
 	duration = 6,
 	cooldown = 120,
   replaces = 6940 -- normal Hand of Sacrifice
@@ -212,7 +212,7 @@ LCT_SpellData[199448] = {
 LCT_SpellData[200025] = {
 	class = "PALADIN",
 	specID = { SPEC_PALADIN_HOLY },
-	talent = true,
+	--talent = true,
 	cooldown = 15,
 	-- replaces = 53563 -- Beacon of Light (no CD)
 }
@@ -220,7 +220,7 @@ LCT_SpellData[200025] = {
 LCT_SpellData[214202] = {
 	class = "PALADIN",
 	specID = { SPEC_PALADIN_HOLY },
-	talent = true,
+	--talent = true,
 	charges = 2,
 	duration = 10,
 	cooldown = 30,
@@ -229,7 +229,7 @@ LCT_SpellData[214202] = {
 LCT_SpellData[105809] = {
 	class = "PALADIN",
 	specID = { SPEC_PALADIN_HOLY },
-	talent = true,
+	--talent = true,
 	offensive = true,
 	defensive = true,
 	duration = 20,
@@ -239,21 +239,21 @@ LCT_SpellData[105809] = {
 LCT_SpellData[210294] = {
 	class = "PALADIN",
 	specID = { SPEC_PALADIN_HOLY },
-	talent = true,
+	--talent = true,
 	cooldown = 45
 }
 -- Bestow Faith
 LCT_SpellData[223306] = {
 	class = "PALADIN",
 	specID = { SPEC_PALADIN_HOLY },
-	talent = true,
+	--talent = true,
 	cooldown = 12
 }
 -- Avenging Crusader
 LCT_SpellData[216331] = {
 	class = "PALADIN",
 	specID = { SPEC_PALADIN_HOLY },
-	talent = true,
+	--talent = true,
 	offensive = true,
 	defensive = true,
 	duration = 25,
@@ -315,14 +315,14 @@ LCT_SpellData[53600] = {
 LCT_SpellData[207028] = {
 	class = "PALADIN",
 	specID = { SPEC_PALADIN_PROTECTION },
-	talent = true,
+	--talent = true,
 	cooldown = 20,
 	replaces = 62124, -- Hand of Reckoning
 }
 -- Seraphim
 LCT_SpellData[152262] = {
 	class = "PALADIN",
-	talent = true,
+	--talent = true,
 	cooldown = 45,
 	duration = 15,
 	offensive = true
@@ -332,7 +332,7 @@ LCT_SpellData[152262] = {
 LCT_SpellData[204018] = {
 	class = "PALADIN",
 	specID = { SPEC_PALADIN_PROTECTION },
-	talent = true,
+	--talent = true,
 	cooldown = 180,
 	replaces = 1022, -- Blessing of Protection
 }
@@ -340,7 +340,7 @@ LCT_SpellData[204018] = {
 LCT_SpellData[228049] = {
 	class = "PALADIN",
 	specID = { SPEC_PALADIN_PROTECTION },
-	talent = true,
+	--talent = true,
 	cooldown = 180,
 	replaces = 86659, -- Guardian of Ancient Kings
 }
@@ -403,7 +403,7 @@ LCT_SpellData[255937] = {
 LCT_SpellData[205191] = {
 	class = "PALADIN",
 	specID = { SPEC_PALADIN_RETRIBUTION },
-	talent = true,
+	--talent = true,
 	defensive = true,
 	duration = 10,
 	cooldown = 60
@@ -412,7 +412,7 @@ LCT_SpellData[205191] = {
 LCT_SpellData[210256] = {
 	class = "PALADIN",
 	specID = { SPEC_PALADIN_RETRIBUTION },
-	talent = true,
+	--talent = true,
 	defensive = true,
 	duration = 5,
 	cooldown = 45
@@ -421,7 +421,7 @@ LCT_SpellData[210256] = {
 LCT_SpellData[231895] = {
 	class = "PALADIN",
 	specID = { SPEC_PALADIN_RETRIBUTION },
-	talent = true,
+	--talent = true,
 	offensive = true,
 	cooldown = 120,
 	replaces = 31884, -- Avenging Wrath
@@ -432,14 +432,14 @@ LCT_SpellData[231895] = {
 LCT_SpellData[247675] = {
 	class = "PALADIN",
 	specID = { SPEC_PALADIN_RETRIBUTION },
-	talent = true,
+	--talent = true,
 	cooldown = 60
 }
 -- Final Reckoning
 LCT_SpellData[343721] = {
 	class = "PALADIN",
 	specID = { SPEC_PALADIN_RETRIBUTION },
-	talent = true,
+	--talent = true,
 	duration = 8,
 	cooldown = 60
 }

@@ -63,7 +63,7 @@ LCT_SpellData[31884] = {
 LCT_SpellData[31842] = {
   class = "PALADIN",
   cooldown = 180,
-  talent = true,
+  --talent = true,
   specID = { SPEC_PALADIN_HOLY },
 }
 
@@ -87,7 +87,7 @@ LCT_SpellData[642] = {
 LCT_SpellData[20925] = {
   class = "PALADIN",
   cooldown = 8,
-  talent = true,
+  --talent = true,
   specID = { SPEC_PALADIN_PROTECTION },
 }
 LCT_SpellData[20927] = 20925
@@ -100,7 +100,7 @@ LCT_SpellData[48952] = 20925
 LCT_SpellData[31935] = {
   class = "PALADIN",
   cooldown = 30,
-  talent = true,
+  --talent = true,
   detects = { 20925 },
   specID = { SPEC_PALADIN_PROTECTION },
 }
@@ -133,7 +133,7 @@ LCT_SpellData[48819] = 26573
 LCT_SpellData[20216] = {
   class = "PALADIN",
   cooldown = 120,
-  talent = true,
+  --talent = true,
   specID = { SPEC_PALADIN_HOLY },
 }
 
@@ -158,7 +158,7 @@ LCT_SpellData[48806] = 24275
 LCT_SpellData[20066] = {
   class = "PALADIN",
   cooldown = 60,
-  talent = true,
+  --talent = true,
   specID = { SPEC_PALADIN_RETRIBUTION },
 }
 
@@ -172,7 +172,7 @@ LCT_SpellData[498] = {
 LCT_SpellData[20473] = {
   class = "PALADIN",
   cooldown = 6,
-  talent = true,
+  --talent = true,
   detects = { 20216 },
   specID = { SPEC_PALADIN_HOLY },
 }
@@ -206,7 +206,7 @@ LCT_SpellData[10278] = 1022
 LCT_SpellData[53385] = {
   class = "PALADIN",
   cooldown = 10,
-  talent = true,
+  --talent = true,
   specID = { SPEC_PALADIN_PROTECTION },
 }
 
@@ -214,7 +214,7 @@ LCT_SpellData[53385] = {
 LCT_SpellData[53595] = {
   class = "PALADIN",
   cooldown = 6,
-  talent = true,
+  --talent = true,
   specID = { SPEC_PALADIN_HOLY },
 }
 
@@ -222,7 +222,7 @@ LCT_SpellData[53595] = {
 LCT_SpellData[54428] = {
   class = "PALADIN",
   cooldown = 60,
-  talent = true,
+  --talent = true,
   specID = { SPEC_PALADIN_HOLY },
 }
 

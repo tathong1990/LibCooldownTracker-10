@@ -55,7 +55,7 @@ LCT_SpellData[355913] = {
 -- Obsidian Scales
 LCT_SpellData[363916] = {
   class = "EVOKER",
-  talent = true,
+  --talent = true,
   duration = 12,
   cooldown = 150,
   defensive = true,
@@ -65,7 +65,7 @@ LCT_SpellData[363916] = {
 -- Oppressing Roar
 LCT_SpellData[372048] = {
   class = "EVOKER",
-  talent = true,
+  --talent = true,
   cooldown = 120,
   duration = 10
   -- TODO: Oppressing Roar's cooldown can be reduced when talented into 'Overawe'
@@ -75,7 +75,7 @@ LCT_SpellData[372048] = {
 -- Sleep Walk
 LCT_SpellData[360806] = {
   class = "EVOKER",
-  talent = true,
+  --talent = true,
   cooldown = 15,
   cc = true,
 }
@@ -83,14 +83,14 @@ LCT_SpellData[360806] = {
 -- Unravel
 LCT_SpellData[368432] = {
   class = "EVOKER",
-  talent = true,
+  --talent = true,
   cooldown = 9
 }
 
 -- Expunge
 LCT_SpellData[365585] = {
   class = "EVOKER",
-  talent = true,
+  --talent = true,
   cooldown = 8,
   dispel = true,
   cooldown_starts_on_dispel = true
@@ -99,7 +99,7 @@ LCT_SpellData[365585] = {
 -- Cauterizing Flame
 LCT_SpellData[374251] = {
   class = "EVOKER",
-  talent = true,
+  --talent = true,
   cooldown = 60,
   dispel = true,
   cooldown_starts_on_dispel = true,
@@ -109,7 +109,7 @@ LCT_SpellData[374251] = {
 -- Landslide
 LCT_SpellData[358385] = {
   class = "EVOKER",
-  talent = true,
+  --talent = true,
   cooldown = 150,
   opt_lower_cooldown = 120 -- Reduced by the 'Forger of Mountains' talent
 }
@@ -117,7 +117,7 @@ LCT_SpellData[358385] = {
 -- Quell
 LCT_SpellData[351338] = {
   class = "EVOKER",
-  talent = true,
+  --talent = true,
   cooldown = 40,
   interrupt = true,
   opt_lower_cooldown = 20 -- Reduced by the 'Imposing Presence' talent
@@ -126,7 +126,7 @@ LCT_SpellData[351338] = {
 -- Renewing Blaze
 LCT_SpellData[374348] = {
   class = "EVOKER",
-  talent = true,
+  --talent = true,
   cooldown = 150,
   duration = 8,
   heal = true,
@@ -137,14 +137,14 @@ LCT_SpellData[374348] = {
 -- Rescue
 LCT_SpellData[370665] = {
   class = "EVOKER",
-  talent = true,
+  --talent = true,
   cooldown = 60
 }
 
 -- Verdant Embrace
 LCT_SpellData[360995] = {
   class = "EVOKER",
-  talent = true,
+  --talent = true,
   cooldown = 24,
   heal = true
 }
@@ -152,21 +152,21 @@ LCT_SpellData[360995] = {
 -- Tip the Scales
 LCT_SpellData[370553] = {
   class = "EVOKER",
-  talent = true,
+  --talent = true,
   cooldown = 120
 }
 
 -- Time Spiral
 LCT_SpellData[374968] = {
   class = "EVOKER",
-  talent = true,
+  --talent = true,
   cooldown = 120
 }
 
 -- Zephyr
 LCT_SpellData[374227] = {
   class = "EVOKER",
-  talent = true,
+  --talent = true,
   duration = 8,
   cooldown = 120
 }
@@ -178,7 +178,7 @@ LCT_SpellData[374227] = {
 LCT_SpellData[360823] = {
   class = "EVOKER",
   specID = { SPEC_EVOKER_PRESERVATION },
-  talent = true,
+  --talent = true,
   cooldown = 8,
   dispel = true,
   cooldown_starts_on_dispel = true
@@ -189,7 +189,7 @@ LCT_SpellData[360823] = {
 LCT_SpellData[375087] = {
   class = "EVOKER",
   specID = { SPEC_EVOKER_DEVASTATION },
-  talent = true,
+  --talent = true,
   offensive = true,
   cooldown = 120
 }
@@ -198,7 +198,7 @@ LCT_SpellData[375087] = {
 LCT_SpellData[359073] = {
   class = "EVOKER",
   specID = { SPEC_EVOKER_DEVASTATION },
-  talent = true,
+  --talent = true,
   cooldown = 30
 }
 
@@ -206,7 +206,7 @@ LCT_SpellData[359073] = {
 LCT_SpellData[370452] = {
   class = "EVOKER",
   specID = { SPEC_EVOKER_DEVASTATION },
-  talent = true,
+  --talent = true,
   offensive = true,
   cooldown = 15
 }
@@ -215,7 +215,7 @@ LCT_SpellData[370452] = {
 LCT_SpellData[368847] = {
   class = "EVOKER",
   specID = { SPEC_EVOKER_DEVASTATION },
-  talent = true,
+  --talent = true,
   cooldown = 20
 }
 
@@ -224,7 +224,7 @@ LCT_SpellData[368847] = {
 LCT_SpellData[355936] = {
   class = "EVOKER",
   specID = { SPEC_EVOKER_PRESERVATION },
-  talent = true,
+  --talent = true,
   cooldown = 35,
   heal = true,
 }
@@ -233,7 +233,7 @@ LCT_SpellData[355936] = {
 LCT_SpellData[373861] = {
   class = "EVOKER",
   specID = { SPEC_EVOKER_PRESERVATION },
-  talent = true,
+  --talent = true,
   duration = 6,
   cooldown = 6,
   heal = true,
@@ -243,7 +243,7 @@ LCT_SpellData[373861] = {
 LCT_SpellData[357170] = {
   class = "EVOKER",
   specID = { SPEC_EVOKER_PRESERVATION },
-  talent = true,
+  --talent = true,
   cooldown = 60,
   duration = 8,
 }
@@ -252,7 +252,7 @@ LCT_SpellData[357170] = {
 LCT_SpellData[367226] = {
   class = "EVOKER",
   specID = { SPEC_EVOKER_PRESERVATION },
-  talent = true,
+  --talent = true,
   cooldown = 30,
   heal = true,
   opt_lower_cooldown = 20 -- Reduced by the 'Spiritual Clarity' talent
@@ -262,7 +262,7 @@ LCT_SpellData[367226] = {
 LCT_SpellData[363534] = {
   class = "EVOKER",
   specID = { SPEC_EVOKER_PRESERVATION },
-  talent = true,
+  --talent = true,
   cooldown = 240,
   heal = true,
   opt_lower_cooldown = 180 -- Reduced by the 'Temporal Artificer' talent
@@ -272,7 +272,7 @@ LCT_SpellData[363534] = {
 LCT_SpellData[370537] = {
   class = "EVOKER",
   specID = { SPEC_EVOKER_PRESERVATION },
-  talent = true,
+  --talent = true,
   cooldown = 150
 }
 
@@ -280,7 +280,7 @@ LCT_SpellData[370537] = {
 LCT_SpellData[366155] = {
   class = "EVOKER",
   specID = { SPEC_EVOKER_PRESERVATION },
-  talent = true,
+  --talent = true,
   cooldown = 9,
   opt_charges = 2, -- Charges added with the 'Punctuality' talent
   heal = true
@@ -290,7 +290,7 @@ LCT_SpellData[366155] = {
 LCT_SpellData[359816] = {
   class = "EVOKER",
   specID = { SPEC_EVOKER_PRESERVATION },
-  talent = true,
+  --talent = true,
   cooldown = 120,
   heal = true
 }
@@ -299,7 +299,7 @@ LCT_SpellData[359816] = {
 LCT_SpellData[370960] = {
   class = "EVOKER",
   specID = { SPEC_EVOKER_PRESERVATION },
-  talent = true,
+  --talent = true,
   cooldown = 180,
   heal = true
 }
@@ -308,21 +308,21 @@ LCT_SpellData[370960] = {
 -- Nullifying Shroud
 LCT_SpellData[378464] = {
   class = "EVOKER",
-  talent = true,
+  --talent = true,
   cooldown = 150
 }
 
 -- Chrono Loop
 LCT_SpellData[383005] = {
   class = "EVOKER",
-  talent = true,
+  --talent = true,
   cooldown = 150
 }
 
 -- Time Stop
 LCT_SpellData[378441] = {
   class = "EVOKER",
-  talent = true,
+  --talent = true,
   duration = 4,
   cooldown = 120,
   defensive = true
@@ -331,7 +331,7 @@ LCT_SpellData[378441] = {
 -- Swoop Up
 LCT_SpellData[370388] = {
   class = "EVOKER",
-  talent = true,
+  --talent = true,
   cooldown = 150
 }
 
@@ -340,7 +340,7 @@ LCT_SpellData[370388] = {
 LCT_SpellData[377509] = {
   class = "EVOKER",
   specID = { SPEC_EVOKER_PRESERVATION },
-  talent = true,
+  --talent = true,
   cooldown = 150
 }
 

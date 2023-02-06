@@ -37,7 +37,7 @@ LCT_SpellData[32548] = {
 LCT_SpellData[10797] = {
   class = "PRIEST",
   cooldown = 30,
-  talent = true,
+  --talent = true,
 }
 LCT_SpellData[19296] = 10797
 LCT_SpellData[19299] = 10797
@@ -75,14 +75,14 @@ LCT_SpellData[25429] = 586
 LCT_SpellData[10060] = {
   class = "PRIEST",
   cooldown = 180,
-  talent = true,
+  --talent = true,
 }
 
 -- Desperate Prayer
 LCT_SpellData[13908] = {
   class = "PRIEST",
   cooldown = 600,
-  talent = true,
+  --talent = true,
 }
 LCT_SpellData[19236] = 13908
 LCT_SpellData[19238] = 13908
@@ -103,7 +103,7 @@ LCT_SpellData[32996] = 32379
 LCT_SpellData[15487] = {
   class = "PRIEST",
   cooldown = 45,
-  talent = true,
+  --talent = true,
 }
 
 -- Shadowfiend
@@ -126,14 +126,14 @@ LCT_SpellData[8124] = 8122
 LCT_SpellData[15286] = {
   class = "PRIEST",
   cooldown = 10,
-  talent = true,
+  --talent = true,
 }
 
 -- Devouring Plague
 LCT_SpellData[2944] = {
   class = "PRIEST",
   cooldown = 180,
-  talent = true,
+  --talent = true,
 }
 LCT_SpellData[19276] = 2944
 LCT_SpellData[19277] = 2944
@@ -175,14 +175,14 @@ LCT_SpellData[33076] = {
 LCT_SpellData[14751] = {
   class = "PRIEST",
   cooldown = 180,
-  talent = true,
+  --talent = true,
 }
 
 -- Pain Suppression
 LCT_SpellData[33206] = {
   class = "PRIEST",
   cooldown = 120,
-  talent = true,
+  --talent = true,
 }
 
 -- Fear Ward
@@ -195,7 +195,7 @@ LCT_SpellData[6346] = {
 LCT_SpellData[724] = {
   class = "PRIEST",
   cooldown = 360,
-  talent = true,
+  --talent = true,
 }
 LCT_SpellData[27870] = 724
 LCT_SpellData[27871] = 724

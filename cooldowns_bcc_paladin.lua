@@ -70,7 +70,7 @@ LCT_SpellData[31884] = {
 LCT_SpellData[31842] = {
   class = "PALADIN",
   cooldown = 180,
-  talent = true,
+  --talent = true,
 }
 
 -- Hammer of Justice
@@ -94,7 +94,7 @@ LCT_SpellData[1020] = 642
 LCT_SpellData[20925] = {
   class = "PALADIN",
   cooldown = 10,
-  talent = true,
+  --talent = true,
 }
 LCT_SpellData[20927] = 20925
 LCT_SpellData[20928] = 20925
@@ -104,7 +104,7 @@ LCT_SpellData[27179] = 20925
 LCT_SpellData[31935] = {
   class = "PALADIN",
   cooldown = 30,
-  talent = true,
+  --talent = true,
   detects = { 20925 } -- TODO
 }
 LCT_SpellData[32699] = 31935
@@ -132,7 +132,7 @@ LCT_SpellData[20116] = 26573
 LCT_SpellData[20216] = {
   class = "PALADIN",
   cooldown = 120,
-  talent = true,
+  --talent = true,
 }
 
 -- Righteous Defense
@@ -154,7 +154,7 @@ LCT_SpellData[27180] = 24275
 LCT_SpellData[20066] = {
   class = "PALADIN",
   cooldown = 60,
-  talent = true,
+  --talent = true,
 }
 
 -- Divine Protection
@@ -168,7 +168,7 @@ LCT_SpellData[5573] = 498
 LCT_SpellData[20473] = {
   class = "PALADIN",
   cooldown = 15,
-  talent = true,
+  --talent = true,
 }
 LCT_SpellData[33072] = 20473
 LCT_SpellData[20929] = 20473

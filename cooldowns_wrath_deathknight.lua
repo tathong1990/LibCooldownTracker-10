@@ -31,21 +31,21 @@ LCT_SpellData[55233] = {
 LCT_SpellData[48982] = {
   class = "DEATHKNIGHT",
   cooldown = 30,
-  talent = true,
+  --talent = true,
   specID = { SPEC_DK_BLOOD },
 }
 -- Unholy Frenzy
 LCT_SpellData[49016] = {
   class = "DEATHKNIGHT",
   cooldown = 180,
-  talent = true,
+  --talent = true,
   specID = { SPEC_DK_UNHOLY },
 }
 -- Dancing Rune Weapon
 LCT_SpellData[49028] = {
   class = "DEATHKNIGHT",
   cooldown = 90,
-  talent = true,
+  --talent = true,
   specID = { SPEC_DK_BLOOD },
 }
 
@@ -73,7 +73,7 @@ LCT_SpellData[47528] = {
 LCT_SpellData[49039] = {
   class = "DEATHKNIGHT",
   cooldown = 120,
-  talent = true,
+  --talent = true,
   specID = { SPEC_DK_UNHOLY },
   duration = 10,
 }
@@ -81,7 +81,7 @@ LCT_SpellData[49039] = {
 LCT_SpellData[49203] = {
   class = "DEATHKNIGHT",
   cooldown = 60,
-  talent = true,
+  --talent = true,
   specID = { SPEC_DK_FROST },
 }
 
@@ -113,7 +113,7 @@ LCT_SpellData[46584] = {
 LCT_SpellData[51052] = {
   class = "DEATHKNIGHT",
   cooldown = 120,
-  talent = true,
+  --talent = true,
   duration = 10,
   specID = { SPEC_DK_UNHOLY },
 }
@@ -121,7 +121,7 @@ LCT_SpellData[51052] = {
 LCT_SpellData[49206] = {
   class = "DEATHKNIGHT",
   cooldown = 180,
-  talent = true,
+  --talent = true,
   duration = 30,
   specID = { SPEC_DK_UNHOLY },
 }

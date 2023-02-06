@@ -64,7 +64,7 @@ LCT_SpellData[107574] = {
 	class = "WARRIOR",
 	-- this spell is a bit weird: it's baseline for Prot, but a talent for Arms.
 	specID = { SPEC_WARRIOR_ARMS, SPEC_WARRIOR_PROT },
-	talent = true,
+	--talent = true,
 	offensive = true,
 	duration = 20,
 	cooldown = 90
@@ -72,14 +72,14 @@ LCT_SpellData[107574] = {
 -- Impending Victory
 LCT_SpellData[202168] = {
 	class = "WARRIOR",
-	talent = true,
+	--talent = true,
 	cooldown = 30,
 	-- replaces = 34428, -- Victory Rush which has no CD
 }
 -- Storm Bolt
 LCT_SpellData[107570] = {
 	class = "WARRIOR",
-	talent = true,
+	--talent = true,
 	stun = true,
 	cooldown = 30
 }
@@ -99,7 +99,7 @@ LCT_SpellData[355] = {
 -- Disarm
 LCT_SpellData[236077] = {
 	class = "WARRIOR",
-	talent = true,
+	--talent = true,
 	cooldown = 45,
 }
 -- Warrior/mixed/talents
@@ -107,7 +107,7 @@ LCT_SpellData[236077] = {
 LCT_SpellData[118000] = {
 	class = "WARRIOR",
 	specID = { SPEC_WARRIOR_FURY, SPEC_WARRIOR_PROT },
-	talent = true,
+	--talent = true,
 	knockback = true,
 	duration = 6,
 	cooldown = 35,
@@ -161,7 +161,7 @@ LCT_SpellData[260708] = {
 LCT_SpellData[262161] = {
 	class = "WARRIOR",
 	specID = { SPEC_WARRIOR_ARMS },
-	talent = true,
+	--talent = true,
 	duration = 10,
 	cooldown = 45,
 	replaces = 167105, -- Colossus Smash
@@ -170,7 +170,7 @@ LCT_SpellData[262161] = {
 LCT_SpellData[152277] = {
 	class = "WARRIOR",
 	specID = { SPEC_WARRIOR_ARMS },
-	talent = true,
+	--talent = true,
 	cooldown = 60,
 	duration = 7,
 	replaces = 227847 -- Bladestorm
@@ -179,14 +179,14 @@ LCT_SpellData[152277] = {
 LCT_SpellData[845] = {
 	class ="WARRIOR",
 	specID = { SPEC_WARRIOR_ARMS },
-	talent = true,
+	--talent = true,
 	cooldown = 9
 }
 -- Skullsplitter
 LCT_SpellData[260643] = {
 	class ="WARRIOR",
 	specID = { SPEC_WARRIOR_ARMS },
-	talent = true,
+	--talent = true,
 	offensive = true,
 	cooldown = 21
 }
@@ -194,14 +194,14 @@ LCT_SpellData[260643] = {
 LCT_SpellData[198817] = {
 	class = "WARRIOR",
 	specID = { SPEC_WARRIOR_ARMS },
-	talent = true,
+	--talent = true,
 	cooldown = 25
 }
 -- Deadly Calm
 LCT_SpellData[262228] = {
 	class = "WARRIOR",
 	specID = { SPEC_WARRIOR_ARMS },
-	talent = true,
+	--talent = true,
 	offensive = true,
 	duration = 6,
 	cooldown = 60
@@ -211,14 +211,14 @@ LCT_SpellData[197690] = {
 	class = "WARRIOR",
 	specID = { SPEC_WARRIOR_ARMS },
 	defensive = true,
-	talent = true,
+	--talent = true,
 	cooldown = 6
 }
 -- Warbanner
 LCT_SpellData[236320] = {
 	class = "WARRIOR",
 	specID = { SPEC_WARRIOR_ARMS },
-	talent = true,
+	--talent = true,
 	cooldown = 90,
 	duration = 15
 }
@@ -226,7 +226,7 @@ LCT_SpellData[236320] = {
 LCT_SpellData[236273] = {
 	class = "WARRIOR",
 	specID = { SPEC_WARRIOR_ARMS },
-	talent = true,
+	--talent = true,
 	cooldown = 60,
 	duration = 6
 }
@@ -267,21 +267,21 @@ LCT_SpellData[1719] = {
 LCT_SpellData[199261] = {
 	class = "WARRIOR",
 	specID = { SPEC_WARRIOR_FURY },
-	talent = true,
+	--talent = true,
 	cooldown = 5,
 }
 -- Siegebreaker
 LCT_SpellData[280772] = {
 	class = "WARRIOR",
 	specID = { SPEC_WARRIOR_FURY },
-	talent = true,
+	--talent = true,
 	cooldown = 30,
 }
 -- Bladestorm
 LCT_SpellData[46924] = {
 	class = "WARRIOR",
 	specID = { SPEC_WARRIOR_FURY },
-	talent = true,
+	--talent = true,
 	offensive = true,
 	duration = 6,
 	cooldown = 60
@@ -338,14 +338,14 @@ LCT_SpellData[6572] = {
 LCT_SpellData[198912] = {
 	class = "WARRIOR",
 	specID = { SPEC_WARRIOR_PROT },
-	talent = true,
+	--talent = true,
 	cooldown = 10,
 }
 -- Bodyguard
 LCT_SpellData[213871] = {
 	class = "WARRIOR",
 	specID = { SPEC_WARRIOR_PROT },
-	talent = true,
+	--talent = true,
 	defensive = true,
 	cooldown = 15,
 }
@@ -353,7 +353,7 @@ LCT_SpellData[213871] = {
 LCT_SpellData[206572] = {
 	class = "WARRIOR",
 	specID = { SPEC_WARRIOR_PROT },
-	talent = true,
+	--talent = true,
 	offensive = true,
 	cooldown = 20,
 }
@@ -361,7 +361,7 @@ LCT_SpellData[206572] = {
 LCT_SpellData[213915] = {
 	class = "WARRIOR",
 	specID = { SPEC_WARRIOR_PROT },
-	talent = true,
+	--talent = true,
 	defensive = true,
 	cooldown = 30,
 	replaces = 23920, -- Spell Reflection
@@ -370,7 +370,7 @@ LCT_SpellData[213915] = {
 LCT_SpellData[205800] = {
 	class = "WARRIOR",
 	specID = { SPEC_WARRIOR_PROT },
-	talent = true,
+	--talent = true,
 	cooldown = 20,
 	replaces = 355, -- Taunt
 }

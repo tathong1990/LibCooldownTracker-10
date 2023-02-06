@@ -15,7 +15,7 @@ LCT_SpellData[585] = {
 -- Shadow Word: Death
 LCT_SpellData[32379] = {
 	class = "PRIEST",
-	talent = true,
+	--talent = true,
 	cooldown = 18,
 	opt_lower_cooldown = 9, -- Kiss of Death legendary
 }
@@ -83,7 +83,7 @@ LCT_SpellData[8122] = {
 -- Thoughtsteal
 LCT_SpellData[316262] = {
 	class = "PRIEST",
-  talent = true,
+  --talent = true,
   duration = 20,
 	cooldown = 90
 }
@@ -110,7 +110,7 @@ LCT_SpellData[34433] = {
 LCT_SpellData[110744] = {
 	class = "PRIEST",
 	specID = { SPEC_PRIEST_DISC, SPEC_PRIEST_HOLY },
-	talent = true,
+	--talent = true,
 	offensive = true,
 	heal = true,
 	cooldown = 15
@@ -119,7 +119,7 @@ LCT_SpellData[110744] = {
 LCT_SpellData[121536] = {
 	class = "PRIEST",
 	specID = { SPEC_PRIEST_DISC, SPEC_PRIEST_HOLY },
-	talent = true,
+	--talent = true,
 	charges = 3,
 	cooldown = 20
 }
@@ -127,7 +127,7 @@ LCT_SpellData[121536] = {
 LCT_SpellData[204263] = {
 	class = "PRIEST",
 	specID = { SPEC_PRIEST_DISC, SPEC_PRIEST_HOLY },
-	talent = true,
+	--talent = true,
 	cc = true,
 	cooldown = 45,
 }
@@ -135,7 +135,7 @@ LCT_SpellData[204263] = {
 LCT_SpellData[120517] = {
 	class = "PRIEST",
 	specID = { SPEC_PRIEST_DISC, SPEC_PRIEST_HOLY },
-	talent = true,
+	--talent = true,
 	heal = true,
 	cooldown = 40
 }
@@ -145,7 +145,7 @@ LCT_SpellData[120517] = {
 LCT_SpellData[197871] = {
 	class = "PRIEST",
 	specID = { SPEC_PRIEST_DISC },
-	talent = true,
+	--talent = true,
 	offensive = true,
 	duration = 8,
 	cooldown = 60
@@ -154,7 +154,7 @@ LCT_SpellData[197871] = {
 LCT_SpellData[197862] = {
 	class = "PRIEST",
 	specID = { SPEC_PRIEST_DISC },
-	talent = true,
+	--talent = true,
 	offensive = true,
 	duration = 15,
 	cooldown = 60
@@ -207,7 +207,7 @@ LCT_SpellData[47536] = {
 LCT_SpellData[109964] = {
 	class = "PRIEST",
 	specID = { SPEC_PRIEST_DISC },
-	talent = true,
+	--talent = true,
 	defensive = true,
 	cooldown = 90,
 }
@@ -215,7 +215,7 @@ LCT_SpellData[109964] = {
 LCT_SpellData[214621] = {
 	class = "PRIEST",
 	specID = { SPEC_PRIEST_DISC },
-	talent = true,
+	--talent = true,
 	offensive = true,
 	cooldown = 24,
 }
@@ -223,7 +223,7 @@ LCT_SpellData[214621] = {
 LCT_SpellData[214621] = {
 	class = "PRIEST",
 	specID = { SPEC_PRIEST_DISC },
-	talent = true,
+	--talent = true,
 	cooldown = 180,
 	-- replaces = 20711 -- Spirit of Redemption
 }
@@ -231,7 +231,7 @@ LCT_SpellData[214621] = {
 LCT_SpellData[129250] = {
 	class = "PRIEST",
 	specID = { SPEC_PRIEST_DISC },
-	talent = true,
+	--talent = true,
 	offensive = true,
 	cooldown = 12,
 }
@@ -239,7 +239,7 @@ LCT_SpellData[129250] = {
 LCT_SpellData[246287] = {
 	class = "PRIEST",
 	specID = { SPEC_PRIEST_DISC },
-	talent = true,
+	--talent = true,
 	heal = true,
 	cooldown = 75,
 }
@@ -248,7 +248,7 @@ LCT_SpellData[246287] = {
 LCT_SpellData[123040] = {
 	class = "PRIEST",
 	specID = { SPEC_PRIEST_DISC },
-	talent = true,
+	--talent = true,
 	offensive = true,
 	duration = 15,
 	cooldown = 60,
@@ -284,7 +284,7 @@ LCT_SpellData[47788] = {
 LCT_SpellData[200183] = {
 	class = "PRIEST",
 	specID = { SPEC_PRIEST_HOLY },
-	talent = true,
+	--talent = true,
 	defensive = true,
 	duration = 20,
 	cooldown = 120,
@@ -316,7 +316,7 @@ LCT_SpellData[2050] = {
 LCT_SpellData[197268] = {
 	class = "PRIEST",
 	specID = { SPEC_PRIEST_HOLY },
-	talent = true,
+	--talent = true,
 	cooldown = 60
 }
 -- Holy Word: Sanctify
@@ -330,7 +330,7 @@ LCT_SpellData[34861] = {
 LCT_SpellData[213610] = {
 	class = "PRIEST",
 	specID = { SPEC_PRIEST_HOLY },
-	talent = true,
+	--talent = true,
 	defensive = true,
 	cooldown = 30
 }
@@ -338,7 +338,7 @@ LCT_SpellData[213610] = {
 LCT_SpellData[265202] = {
 	class = "PRIEST",
 	specID = { SPEC_PRIEST_HOLY },
-	talent = true,
+	--talent = true,
 	defensive = true,
 	cooldown = 720 -- 12min
 }
@@ -380,14 +380,14 @@ LCT_SpellData[15487] = {
 LCT_SpellData[263165] = {
 	class = "PRIEST",
 	specID = { SPEC_PRIEST_SHADOW },
-	talent = true,
+	--talent = true,
 	cooldown = 45
 }
 -- Mindbender (Shadow)
 LCT_SpellData[200174] = {
 	class = "PRIEST",
 	specID = { SPEC_PRIEST_DISC },
-	talent = true,
+	--talent = true,
 	offensive = true,
 	duration = 15,
 	cooldown = 60,
@@ -397,28 +397,28 @@ LCT_SpellData[200174] = {
 LCT_SpellData[64044] = {
 	class = "PRIEST",
 	specID = { SPEC_PRIEST_SHADOW },
-	talent = true,
+	--talent = true,
 	cc = true,
 	cooldown = 45
 }
 -- Void Shift
 LCT_SpellData[108968] = {
 	class = "PRIEST",
-	talent = true,
+	--talent = true,
 	cooldown = 300
 }
 -- Psyfiend
 LCT_SpellData[211522] = {
 	class = "PRIEST",
 	specID = { SPEC_PRIEST_SHADOW },
-	talent = true,
+	--talent = true,
 	cooldown = 45,
 }
 -- Shadow Word: Void
 LCT_SpellData[205351] = {
 	class = "PRIEST",
 	specID = { SPEC_PRIEST_SHADOW },
-	talent = true,
+	--talent = true,
 	offensive = true,
 	cooldown = 9,
 	replaces = 8092, -- Mindblast
@@ -428,7 +428,7 @@ LCT_SpellData[205351] = {
 LCT_SpellData[205369] = {
 	class = "PRIEST",
 	specID = { SPEC_PRIEST_SHADOW },
-	talent = true,
+	--talent = true,
 	cc = true,
 	cooldown = 30,
 	replaces = 8122
@@ -437,7 +437,7 @@ LCT_SpellData[205369] = {
 LCT_SpellData[123040] = {
 	class = "PRIEST",
 	specID = { SPEC_PRIEST_SHADOW },
-	talent = true,
+	--talent = true,
 	defensive = true,
 	cooldown = 300
 }

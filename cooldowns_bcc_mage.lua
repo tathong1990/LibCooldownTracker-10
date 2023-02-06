@@ -2,14 +2,14 @@
 LCT_SpellData[12042] = {
   cooldown = 180,
   class = "MAGE",
-  talent = true,
+  --talent = true,
 }
 
 -- Presence of Mind
 LCT_SpellData[12043] = {
   cooldown = 180,
   class = "MAGE",
-  talent = true,
+  --talent = true,
 }
 
 -- Evocation
@@ -101,7 +101,7 @@ LCT_SpellData[11958] = {
   cooldown = 480,
   opt_lower_cooldown = 384,
   class = "MAGE",
-  talent = true,
+  --talent = true,
   resets = { 122, 120, 12472, 11426, 31687, 45438 },
 }
 
@@ -109,7 +109,7 @@ LCT_SpellData[11958] = {
 LCT_SpellData[31661] = {
   cooldown = 20,
   class = "MAGE",
-  talent = true,
+  --talent = true,
 }
 LCT_SpellData[33041] = 31661
 LCT_SpellData[33042] = 31661
@@ -126,14 +126,14 @@ LCT_SpellData[1953] = {
 LCT_SpellData[11129] = {
   cooldown = 180,
   class = "MAGE",
-  talent = true,
+  --talent = true,
 }
 
 -- Icy Veins
 LCT_SpellData[12472] = {
   cooldown = 180,
   class = "MAGE",
-  talent = true,
+  --talent = true,
 }
 
 -- Counterspell
@@ -146,7 +146,7 @@ LCT_SpellData[2139] = {
 LCT_SpellData[11113] = {
   cooldown = 30,
   class = "MAGE",
-  talent = true,
+  --talent = true,
 }
 LCT_SpellData[33933] = 11113
 LCT_SpellData[27133] = 11113
@@ -160,7 +160,7 @@ LCT_SpellData[11426] = {
   cooldown = 30,
   opt_lower_cooldown = 24,
   class = "MAGE",
-  talent = true,
+  --talent = true,
   detects = { 11958 } -- TODO
 }
 LCT_SpellData[33405] = 11426

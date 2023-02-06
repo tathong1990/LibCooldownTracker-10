@@ -9,14 +9,14 @@ LCT_SpellData[2094] = {
 LCT_SpellData[13877] = {
   cooldown = 120,
   class = "ROGUE",
-  talent = true,
+  --talent = true,
 }
 
 -- Cold Blood
 LCT_SpellData[14177] = {
   cooldown = 180,
   class = "ROGUE",
-  talent = true,
+  --talent = true,
 }
 
 -- Shadowstep
@@ -71,7 +71,7 @@ LCT_SpellData[1857] = 1856
 LCT_SpellData[14251] = {
   cooldown = 6,
   class = "ROGUE",
-  talent = true,
+  --talent = true,
 }
 
 -- Feint
@@ -105,7 +105,7 @@ LCT_SpellData[1787] = 1784
 LCT_SpellData[13750] = {
   cooldown = 300,
   class = "ROGUE",
-  talent = true,
+  --talent = true,
 }
 
 -- Premeditation
@@ -113,14 +113,14 @@ LCT_SpellData[13750] = {
 --LCT_SpellData[14183] = {
 --  cooldown = 120,
 --  class = "ROGUE",
---  talent = true,
+--  --talent = true,
 --}
 
 -- Preparation
 LCT_SpellData[14185] = {
   cooldown = 600,
   class = "ROGUE",
-  talent = true,
+  --talent = true,
   resets = { 5277, 2983, 1856, 14177, 36554 }, -- TODO
 }
 

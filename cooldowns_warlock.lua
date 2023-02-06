@@ -15,7 +15,7 @@ LCT_SpellData[20707] = {
 LCT_SpellData[212295] = {
 	class = "WARLOCK",
 	defensive = true,
-	talent = true,
+	--talent = true,
 	duration = 3,
 	cooldown = 45
 }
@@ -42,7 +42,7 @@ LCT_SpellData[104773] = {
 -- Mortal Coil
 LCT_SpellData[6789] = {
 	class = "WARLOCK",
-	talent = true,
+	--talent = true,
 	cc = true,
 	heal = true,
 	cooldown = 45
@@ -50,7 +50,7 @@ LCT_SpellData[6789] = {
 -- Dark Pact
 LCT_SpellData[108416] = {
 	class = "WARLOCK",
-	talent = true,
+	--talent = true,
 	defensive = true,
 	duration = 20,
 	cooldown = 45
@@ -58,33 +58,33 @@ LCT_SpellData[108416] = {
 -- Curse of Fragility
 LCT_SpellData[199954] = {
 	class = "WARLOCK",
-	talent = true,
+	--talent = true,
 	cooldown = 45
 }
 -- Casting Circle
 LCT_SpellData[221703] = {
 	class = "WARLOCK",
-	talent = true,
+	--talent = true,
 	duration = 8,
 	cooldown = 60
 }
 -- Nether Ward
 LCT_SpellData[212295] = {
 	class = "WARLOCK",
-	talent = true,
+	--talent = true,
 	defensive = true,
 	cooldown = 45
 }
 -- Curse of Tongues
 LCT_SpellData[199890] = {
 	class = "WARLOCK",
-	talent = true,
+	--talent = true,
 	cooldown = 15
 }
 -- Curse of Weakness
 LCT_SpellData[199892] = {
 	class = "WARLOCK",
-	talent = true,
+	--talent = true,
 	cooldown = 20
 }
 -- Warlock/mixed/talents
@@ -92,20 +92,20 @@ LCT_SpellData[199892] = {
 LCT_SpellData[108503] = {
 	class = "WARLOCK",
 	specID = { SPEC_WARLOCK_AFFLICTION, SPEC_WARLOCK_DESTRUCTION },
-	talent = true,
+	--talent = true,
 	cooldown = 30
 }
 -- Howl of Terror
 LCT_SpellData[5484] = {
 	class = "WARLOCK",
-	talent = true,
+	--talent = true,
 	cc = true,
 	cooldown = 40
 }
 -- Shadow Rift
 LCT_SpellData[353294] = {
 	class = "WARLOCK",
-	talent = true,
+	--talent = true,
 	cooldown = 60,
   duration = 2
 }
@@ -124,21 +124,21 @@ LCT_SpellData[205180] = {
 LCT_SpellData[278350] = {
 	class = "WARLOCK",
 	specID = { SPEC_WARLOCK_AFFLICTION },
-	talent = true,
+	--talent = true,
 	cooldown = 20
 }
 -- Curse of Shadows
 LCT_SpellData[234877] = {
 	class = "WARLOCK",
 	specID = { SPEC_WARLOCK_AFFLICTION },
-	talent = true,
+	--talent = true,
 	cooldown = 30
 }
 -- Dark Soul: Misery
 LCT_SpellData[113860] = {
 	class = "WARLOCK",
 	specID = { SPEC_WARLOCK_AFFLICTION },
-	talent = true,
+	--talent = true,
 	duration = 20,
 	cooldown = 120
 }
@@ -146,7 +146,7 @@ LCT_SpellData[113860] = {
 LCT_SpellData[344566] = {
 	class = "WARLOCK",
 	specID = { SPEC_WARLOCK_AFFLICTION },
-	talent = true,
+	--talent = true,
 	offensive = true,
 	cooldown = 30
 }
@@ -154,7 +154,7 @@ LCT_SpellData[344566] = {
 LCT_SpellData[264106] = {
 	class = "WARLOCK",
 	specID = { SPEC_WARLOCK_AFFLICTION },
-	talent = true,
+	--talent = true,
 	offensive = true,
 	cooldown = 45
 }
@@ -162,14 +162,14 @@ LCT_SpellData[264106] = {
 LCT_SpellData[48181] = {
 	class = "WARLOCK",
 	specID = { SPEC_WARLOCK_AFFLICTION },
-	talent = true,
+	--talent = true,
 	cooldown = 15
 }
 -- Phantom Singularity
 LCT_SpellData[205179] = {
 	class = "WARLOCK",
 	specID = { SPEC_WARLOCK_AFFLICTION },
-	talent = true,
+	--talent = true,
 	cooldown = 45
 }
 
@@ -195,7 +195,7 @@ LCT_SpellData[265187] = {
 LCT_SpellData[267217] = {
 	class = "WARLOCK",
 	specID = { SPEC_WARLOCK_DEMONOLOGY },
-	talent = true,
+	--talent = true,
 	duration = 20,
 	cooldown = 180
 }
@@ -203,7 +203,7 @@ LCT_SpellData[267217] = {
 LCT_SpellData[264119] = {
 	class = "WARLOCK",
 	specID = { SPEC_WARLOCK_DEMONOLOGY },
-	talent = true,
+	--talent = true,
 	duration = 15,
 	cooldown = 45
 }
@@ -211,21 +211,21 @@ LCT_SpellData[264119] = {
 LCT_SpellData[264130] = {
 	class = "WARLOCK",
 	specID = { SPEC_WARLOCK_DEMONOLOGY },
-	talent = true,
+	--talent = true,
 	cooldown = 30
 }
 -- Singe Magic
 LCT_SpellData[212623] = {
 	class = "WARLOCK",
 	specID = { SPEC_WARLOCK_DEMONOLOGY },
-	talent = true,
+	--talent = true,
 	cooldown = 15
 }
 -- Soul Strike
 LCT_SpellData[264057] = {
 	class = "WARLOCK",
 	specID = { SPEC_WARLOCK_DEMONOLOGY },
-	talent = true,
+	--talent = true,
 	offensive = true,
 	cooldown = 10
 }
@@ -233,7 +233,7 @@ LCT_SpellData[264057] = {
 LCT_SpellData[111898] = {
 	class = "WARLOCK",
 	specID = { SPEC_WARLOCK_DEMONOLOGY },
-	talent = true,
+	--talent = true,
 	offensive = true,
 	duration = 15,
 	cooldown = 120
@@ -242,7 +242,7 @@ LCT_SpellData[111898] = {
 LCT_SpellData[212459] = {
 	class = "WARLOCK",
 	specID = { SPEC_WARLOCK_DEMONOLOGY },
-	talent = true,
+	--talent = true,
 	offensive = true,
 	duration = 30,
 	cooldown = 90
@@ -251,7 +251,7 @@ LCT_SpellData[212459] = {
 LCT_SpellData[267211] = {
 	class = "WARLOCK",
 	specID = { SPEC_WARLOCK_DEMONOLOGY },
-	talent = true,
+	--talent = true,
 	offensive = true,
 	duration = 6,
 	cooldown = 90
@@ -260,21 +260,21 @@ LCT_SpellData[267211] = {
 LCT_SpellData[267171] = {
 	class = "WARLOCK",
 	specID = { SPEC_WARLOCK_DEMONOLOGY },
-	talent = true,
+	--talent = true,
 	cooldown = 60
 }
 -- Call Felhunter
 LCT_SpellData[212619] = {
 	class = "WARLOCK",
 	specID = { SPEC_WARLOCK_DEMONOLOGY },
-	talent = true,
+	--talent = true,
 	cooldown = 24
 }
 -- Call Observer
 LCT_SpellData[201996] = {
 	class = "WARLOCK",
 	specID = { SPEC_WARLOCK_DEMONOLOGY },
-	talent = true,
+	--talent = true,
 	offensive = true,
 	duration = 20,
 	cooldown = 90
@@ -283,7 +283,7 @@ LCT_SpellData[201996] = {
 LCT_SpellData[353601] = {
 	class = "WARLOCK",
 	specID = { SPEC_WARLOCK_DEMONOLOGY },
-	talent = true,
+	--talent = true,
 	offensive = true,
 	cooldown = 45
 }
@@ -327,7 +327,7 @@ LCT_SpellData[200546] = {
 LCT_SpellData[152108] = {
 	class = "WARLOCK",
 	specID = { SPEC_WARLOCK_DESTRUCTION },
-	talent = true,
+	--talent = true,
 	offensive = true,
 	cooldown = 30
 }
@@ -335,7 +335,7 @@ LCT_SpellData[152108] = {
 LCT_SpellData[196447] = {
 	class = "WARLOCK",
 	specID = { SPEC_WARLOCK_DESTRUCTION },
-	talent = true,
+	--talent = true,
 	offensive = true,
 	duration = 3,
 	cooldown = 25
@@ -344,7 +344,7 @@ LCT_SpellData[196447] = {
 LCT_SpellData[6353] = {
 	class = "WARLOCK",
 	specID = { SPEC_WARLOCK_DESTRUCTION },
-	talent = true,
+	--talent = true,
 	offensive = true,
 	cooldown = 20, -- reduced by 2s for every Soul Shard spent
 }
@@ -352,7 +352,7 @@ LCT_SpellData[6353] = {
 LCT_SpellData[113858] = {
 	class = "WARLOCK",
 	specID = { SPEC_WARLOCK_DESTRUCTION },
-	talent = true,
+	--talent = true,
 	offensive = true,
 	duration = 20,
 	cooldown = 120
@@ -361,7 +361,7 @@ LCT_SpellData[113858] = {
 LCT_SpellData[17877] = {
 	class = "WARLOCK",
 	specID = { SPEC_WARLOCK_DESTRUCTION },
-	talent = true,
+	--talent = true,
 	charges = 2,
 	offensive = true,
 	cooldown = 12
@@ -370,7 +370,7 @@ LCT_SpellData[17877] = {
 LCT_SpellData[353753] = {
 	class = "WARLOCK",
 	specID = { SPEC_WARLOCK_DESTRUCTION },
-	talent = true,
+	--talent = true,
 	cooldown = 30
 }
 

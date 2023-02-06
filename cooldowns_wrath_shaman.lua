@@ -20,7 +20,7 @@ LCT_SpellData[556] = {
 LCT_SpellData[16188] = {
   cooldown = 120,
   class = "SHAMAN",
-  talent = true,
+  --talent = true,
 	cooldown_starts_on_dispel = true,
 }
 
@@ -28,7 +28,7 @@ LCT_SpellData[16188] = {
 LCT_SpellData[16190] = {
   cooldown = 300,
   class = "SHAMAN",
-  talent = true,
+  --talent = true,
 }
 
 -- Fire Elemental Totem
@@ -49,7 +49,7 @@ LCT_SpellData[8177] = {
 LCT_SpellData[30823] = {
   class = "SHAMAN",
   cooldown = 60,
-  talent = true,
+  --talent = true,
   specID = { SPEC_SHAMAN_ENHANCEMENT },
 }
 
@@ -90,7 +90,7 @@ LCT_SpellData[49233] = 8042
 LCT_SpellData[16166] = {
   cooldown = 180,
   class = "SHAMAN",
-  talent = true,
+  --talent = true,
   specID = { SPEC_SHAMAN_ELEMENTAL },
 }
 
@@ -115,7 +115,7 @@ LCT_SpellData[20608] = {
 LCT_SpellData[17364] = {
   class = "SHAMAN",
   cooldown = 8,
-  talent = true,
+  --talent = true,
   specID = { SPEC_SHAMAN_ENHANCEMENT },
 }
 
@@ -172,7 +172,7 @@ LCT_SpellData[61657] = 1535
 LCT_SpellData[61295] = {
   class = "SHAMAN",
   cooldown = 6,
-  talent = true,
+  --talent = true,
   specID = { SPEC_SHAMAN_RESTORATION },
 }
 LCT_SpellData[61299] = 61295
@@ -183,7 +183,7 @@ LCT_SpellData[61301] = 61295
 LCT_SpellData[51490] = {
   class = "SHAMAN",
   cooldown = 45,
-  talent = true,
+  --talent = true,
   specID = { SPEC_SHAMAN_ELEMENTAL },
 }
 
@@ -204,7 +204,7 @@ LCT_SpellData[57994] = {
 LCT_SpellData[51533] = {
   class = "SHAMAN",
   cooldown = 180,
-  talent = true,
+  --talent = true,
   specID = { SPEC_SHAMAN_ENHANCEMENT },
 }
 

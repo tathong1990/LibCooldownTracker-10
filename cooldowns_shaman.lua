@@ -54,7 +54,7 @@ LCT_SpellData[198103] = {
 -- Grounding Totem
 LCT_SpellData[204336] = {
 	class = "SHAMAN",
-	talent = true,
+	--talent = true,
 	duration = 3,
 	cooldown = 30
 }
@@ -68,21 +68,21 @@ LCT_SpellData[108271] = {
 -- Skyfury Totem
 LCT_SpellData[204330] = {
 	class = "SHAMAN",
-	talent = true,
+	--talent = true,
 	cooldown = 40,
 	duration = 15,
 }
 -- Counterstrike Totem
 LCT_SpellData[204331] = {
 	class = "SHAMAN",
-	talent = true,
+	--talent = true,
 	cooldown = 45,
 	duration = 15
 }
 -- Wind Rush Totem
 LCT_SpellData[192077] = {
 	class = "SHAMAN",
-	talent = true,
+	--talent = true,
 	cooldown = 120
 }
 
@@ -120,7 +120,7 @@ LCT_SpellData[198103] = {
 LCT_SpellData[320125] = {
 	class = "SHAMAN",
 	specID = { SPEC_SHAMAN_ELEMENTAL },
-	talent = true,
+	--talent = true,
 	duration = 3, -- Most likely used right before a damage spell, put 3s duration for highlight
 	cooldown = 30,
 }
@@ -128,7 +128,7 @@ LCT_SpellData[320125] = {
 LCT_SpellData[191634] = {
 	class = "SHAMAN",
 	specID = { SPEC_SHAMAN_ELEMENTAL },
-	talent = true,
+	--talent = true,
 	cooldown = 60,
 	duration = 15
 }
@@ -136,7 +136,7 @@ LCT_SpellData[191634] = {
 LCT_SpellData[108281] = {
 	class = "SHAMAN",
 	specID = { SPEC_SHAMAN_ELEMENTAL },
-	talent = true,
+	--talent = true,
 	heal = true,
 	duration = 10,
 	cooldown = 120
@@ -145,7 +145,7 @@ LCT_SpellData[108281] = {
 LCT_SpellData[117014] = {
 	class = "SHAMAN",
 	specID = { SPEC_SHAMAN_ELEMENTAL },
-	talent = true,
+	--talent = true,
 	offensive = true,
 	cooldown = 12
 }
@@ -153,7 +153,7 @@ LCT_SpellData[117014] = {
 LCT_SpellData[114050] = {
 	class = "SHAMAN",
 	specID = { SPEC_SHAMAN_ELEMENTAL },
-	talent = true,
+	--talent = true,
 	duration = 15,
 	cooldown = 180,
 }
@@ -161,7 +161,7 @@ LCT_SpellData[114050] = {
 LCT_SpellData[192222] = {
 	class = "SHAMAN",
 	specID = { SPEC_SHAMAN_ELEMENTAL },
-	talent = true,
+	--talent = true,
 	duration = 15,
 	cooldown = 60,
 }
@@ -169,7 +169,7 @@ LCT_SpellData[192222] = {
 LCT_SpellData[192249] = {
 	class = "SHAMAN",
 	specID = { SPEC_SHAMAN_ELEMENTAL },
-	talent = true,
+	--talent = true,
 	duration = 30,
 	cooldown = 150,
 }
@@ -177,14 +177,14 @@ LCT_SpellData[192249] = {
 LCT_SpellData[210714] = {
 	class = "SHAMAN",
 	specID = { SPEC_SHAMAN_ELEMENTAL },
-	talent = true,
+	--talent = true,
 	cooldown = 30,
 }
 -- Lightining Lasso
 LCT_SpellData[305483] = {
 	class = "SHAMAN",
 	specID = { SPEC_SHAMAN_ELEMENTAL },
-	talent = true,
+	--talent = true,
 	duration = 6,
 	cooldown = 30,
 }
@@ -218,7 +218,7 @@ LCT_SpellData[17364] = {
 LCT_SpellData[114051] = {
 	class = "SHAMAN",
 	specID = { SPEC_SHAMAN_ENHANCEMENT },
-	talent = true,
+	--talent = true,
 	offensive = true,
 	duration = 15,
 	cooldown = 180
@@ -227,21 +227,21 @@ LCT_SpellData[114051] = {
 LCT_SpellData[196884] = {
 	class = "SHAMAN",
 	specID = { SPEC_SHAMAN_ENHANCEMENT },
-	talent = true,
+	--talent = true,
 	cooldown = 30,
 }
 -- Sundering
 LCT_SpellData[197214] = {
 	class = "SHAMAN",
 	specID = { SPEC_SHAMAN_ENHANCEMENT },
-	talent = true,
+	--talent = true,
 	cooldown = 40,
 }
 -- Ethereal Form
 LCT_SpellData[210918] = {
 	class = "SHAMAN",
 	specID = { SPEC_SHAMAN_ENHANCEMENT },
-	talent = true,
+	--talent = true,
 	cooldown = 45,
 	duration = 15,
 	replaces = 108271, -- Astral Shift
@@ -250,14 +250,14 @@ LCT_SpellData[210918] = {
 LCT_SpellData[204366] = {
 	class = "SHAMAN",
 	specID = { SPEC_SHAMAN_ENHANCEMENT },
-	talent = true,
+	--talent = true,
 	cooldown = 45,
 }
 -- Shamanism (Alliance)
 LCT_SpellData[204362] = {
 	class = "SHAMAN",
 	specID = { SPEC_SHAMAN_ENHANCEMENT },
-	talent = true,
+	--talent = true,
 	cooldown = 60,
 	duration = 10
 }
@@ -265,14 +265,14 @@ LCT_SpellData[204362] = {
 LCT_SpellData[204361] = {
 	class = "SHAMAN",
 	specID = { SPEC_SHAMAN_ENHANCEMENT },
-	talent = true,
+	--talent = true,
 	cooldown = 60,
 	duration = 10
 }
 -- Doom Winds
 LCT_SpellData[335903] = {
 	class = "SHAMAN",
-	talent = true,
+	--talent = true,
 	specID = { SPEC_SHAMAN_ENHANCEMENT },
 	duration = 12,
 	cooldown = 60,
@@ -323,7 +323,7 @@ LCT_SpellData[98008] = {
 LCT_SpellData[198838] = {
 	class = "SHAMAN",
 	specID = { SPEC_SHAMAN_RESTORATION },
-	talent = true,
+	--talent = true,
 	defensive = true,
 	cooldown = 60
 }
@@ -348,7 +348,7 @@ LCT_SpellData[207778] = {
 	class = "SHAMAN",
 	specID = { SPEC_SHAMAN_RESTORATION },
 	heal = true,
-	talent = true,
+	--talent = true,
 	duration = 6,
 	cooldown = 5 -- this is impossible to calculate
 }
@@ -357,7 +357,7 @@ LCT_SpellData[207778] = {
 LCT_SpellData[73685] = {
 	class = "SHAMAN",
 	specID = { SPEC_SHAMAN_RESTORATION },
-	talent = true,
+	--talent = true,
 	heal = true,
 	cooldown = 15
 }
@@ -365,7 +365,7 @@ LCT_SpellData[73685] = {
 LCT_SpellData[51485] = {
 	class = "SHAMAN",
 	specID = { SPEC_SHAMAN_RESTORATION },
-	talent = true,
+	--talent = true,
 	replaces = 2484,
 	cooldown = 30
 }
@@ -373,7 +373,7 @@ LCT_SpellData[51485] = {
 LCT_SpellData[114052] = {
 	class = "SHAMAN",
 	specID = { SPEC_SHAMAN_RESTORATION },
-	talent = true,
+	--talent = true,
 	heal = true,
 	duration = 15,
 	cooldown = 180
@@ -383,7 +383,7 @@ LCT_SpellData[207399] = {
 	class = "SHAMAN",
 	specID = { SPEC_SHAMAN_RESTORATION },
 	defensive = true,
-	talent = true,
+	--talent = true,
 	duration = 30,
 	cooldown = 300
 }
@@ -392,7 +392,7 @@ LCT_SpellData[157153] = {
 	class = "SHAMAN",
 	specID = { SPEC_SHAMAN_RESTORATION },
 	heal = true,
-	talent = true,
+	--talent = true,
 	cooldown = 30,
 	replaces = 5394 -- Healing Stream Totem
 }
@@ -401,7 +401,7 @@ LCT_SpellData[197995] = {
 	class = "SHAMAN",
 	specID = { SPEC_SHAMAN_RESTORATION },
 	heal = true,
-	talent = true,
+	--talent = true,
 	cooldown = 20
 }
 

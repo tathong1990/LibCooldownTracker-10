@@ -8,7 +8,7 @@ local SPEC_WARRIOR_PROT = 73
 LCT_SpellData[12292] = {
   class = "WARRIOR",
   cooldown = 180,
-  talent = true,
+  --talent = true,
   duration = 30,
   specID = { SPEC_WARRIOR_FURY },
 }
@@ -23,7 +23,7 @@ LCT_SpellData[2565] = {
 LCT_SpellData[12294] = {
   class = "WARRIOR",
   cooldown = 5,
-  talent = true,
+  --talent = true,
   specID = { SPEC_WARRIOR_ARMS },
 }
 LCT_SpellData[21551] = 12294
@@ -38,7 +38,7 @@ LCT_SpellData[47486] = 12294
 LCT_SpellData[23881] = {
   class = "WARRIOR",
   cooldown = 4,
-  talent = true,
+  --talent = true,
   detects = { 12292 },
   specID = { SPEC_WARRIOR_FURY },
 }
@@ -104,7 +104,7 @@ LCT_SpellData[1680] = {
 LCT_SpellData[12809] = {
   class = "WARRIOR",
   cooldown = 30,
-  talent = true,
+  --talent = true,
   specID = { SPEC_WARRIOR_PROT },
 }
 
@@ -151,7 +151,7 @@ LCT_SpellData[57823] = 6572
 LCT_SpellData[12975] = {
   class = "WARRIOR",
   cooldown = 180,
-  talent = true,
+  --talent = true,
   duration = 20,
   specID = { SPEC_WARRIOR_PROT },
 }
@@ -224,7 +224,7 @@ LCT_SpellData[7384] = {
 LCT_SpellData[46968] = {
   class = "WARRIOR",
   cooldown = 20,
-  talent = true,
+  --talent = true,
   specID = { SPEC_WARRIOR_PROT },
 }
 
@@ -232,7 +232,7 @@ LCT_SpellData[46968] = {
 LCT_SpellData[46924] = {
   class = "WARRIOR",
   cooldown = 90,
-  talent = true,
+  --talent = true,
   specID = { SPEC_WARRIOR_ARMS },
 }
 

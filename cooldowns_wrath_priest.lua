@@ -54,7 +54,7 @@ LCT_SpellData[586] = {
 LCT_SpellData[10060] = {
   class = "PRIEST",
   cooldown = 120,
-  talent = true,
+  --talent = true,
   specID = { SPEC_PRIEST_DISC },
 }
 
@@ -85,7 +85,7 @@ LCT_SpellData[48158] = 32379
 LCT_SpellData[15487] = {
   class = "PRIEST",
   cooldown = 45,
-  talent = true,
+  --talent = true,
   specID = { SPEC_PRIEST_SHADOW },
 }
 
@@ -136,7 +136,7 @@ LCT_SpellData[48113] = 33076
 LCT_SpellData[14751] = {
   class = "PRIEST",
   cooldown = 180,
-  talent = true,
+  --talent = true,
   specID = { SPEC_PRIEST_DISC },
 }
 
@@ -144,7 +144,7 @@ LCT_SpellData[14751] = {
 LCT_SpellData[33206] = {
   class = "PRIEST",
   cooldown = 180,
-  talent = true,
+  --talent = true,
   specID = { SPEC_PRIEST_DISC },
 }
 
@@ -158,7 +158,7 @@ LCT_SpellData[6346] = {
 LCT_SpellData[724] = {
   class = "PRIEST",
   cooldown = 180,
-  talent = true,
+  --talent = true,
   specID = { SPEC_PRIEST_HOLY },
 }
 LCT_SpellData[27870] = 724
@@ -171,7 +171,7 @@ LCT_SpellData[48087] = 724
 LCT_SpellData[47540] = {
   class = "PRIEST",
   cooldown = 12,
-  talent = true,
+  --talent = true,
   specID = { SPEC_PRIEST_DISC },
 }
 LCT_SpellData[53005] = 47540
@@ -182,7 +182,7 @@ LCT_SpellData[53007] = 47540
 LCT_SpellData[47585] = {
   class = "PRIEST",
   cooldown = 120,
-  talent = true,
+  --talent = true,
   specID = { SPEC_PRIEST_SHADOW },
 }
 
@@ -190,6 +190,6 @@ LCT_SpellData[47585] = {
 LCT_SpellData[47788] = {
   class = "PRIEST",
   cooldown = 180,
-  talent = true,
+  --talent = true,
   specID = { SPEC_PRIEST_HOLY },
 }

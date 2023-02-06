@@ -14,14 +14,14 @@ LCT_SpellData[556] = {
 LCT_SpellData[16188] = {
   cooldown = 180,
   class = "SHAMAN",
-  talent = true,
+  --talent = true,
 }
 
 -- Mana Tide Totem
 LCT_SpellData[16190] = {
   cooldown = 300,
   class = "SHAMAN",
-  talent = true,
+  --talent = true,
 }
 
 -- Fire Elemental Totem
@@ -41,7 +41,7 @@ LCT_SpellData[8177] = {
 LCT_SpellData[30823] = {
   cooldown = 120,
   class = "SHAMAN",
-  talent = true,
+  --talent = true,
 }
 
 -- Earth Shock
@@ -73,7 +73,7 @@ LCT_SpellData[25454] = 8042
 LCT_SpellData[16166] = {
   cooldown = 180,
   class = "SHAMAN",
-  talent = true,
+  --talent = true,
 }
 
 -- Heroism
@@ -93,7 +93,7 @@ LCT_SpellData[20608] = {
 LCT_SpellData[17364] = {
   cooldown = 10,
   class = "SHAMAN",
-  talent = true,
+  --talent = true,
 }
 
 -- Bloodlust

@@ -89,14 +89,14 @@ LCT_SpellData[5384] = {
 -- Spider Sting
 LCT_SpellData[202914] = {
   class = "HUNTER",
-  talent = true,
+  --talent = true,
   silence = true,
   cooldown = 45
 }
 -- Viper Sting
 LCT_SpellData[202797] = {
   class = "HUNTER",
-  talent = true,
+  --talent = true,
   cooldown = 45
 }
 -- Spirit Mend
@@ -131,7 +131,7 @@ LCT_SpellData[147362] = {
 -- Roar of Sacrifice
 LCT_SpellData[53480] = {
 	class = "HUNTER",
-	talent = true,
+	--talent = true,
 	defensive = true,
 	duration = 12,
 	cooldown = 60
@@ -139,32 +139,32 @@ LCT_SpellData[53480] = {
 -- Scorpid Sting
 LCT_SpellData[202900] = {
 	class = "HUNTER",
-	talent = true,
+	--talent = true,
 	defensive = true,
 	cooldown = 24
 }
 -- Binding Shot
 LCT_SpellData[109248] = {
 	class = "HUNTER",
-	talent = true,
+	--talent = true,
 	cooldown = 45
 }
 -- Hi-Explosive Trap
 LCT_SpellData[236776] = {
 	class = "HUNTER",
-	talent = true,
+	--talent = true,
 	cooldown = 40
 }
 -- Camouflage
 LCT_SpellData[199483] = {
 	class = "HUNTER",
-	talent = true,
+	--talent = true,
 	cooldown = 60
 }
 -- A Murder of Crows
 LCT_SpellData[131894] = {
 	class = "HUNTER",
-	talent = true,
+	--talent = true,
 	offensive = true,
 	duration = 15,
 	cooldown = 60
@@ -172,7 +172,7 @@ LCT_SpellData[131894] = {
 -- Barrage
 LCT_SpellData[120360] = {
 	class = "HUNTER",
-	talent = true,
+	--talent = true,
 	specID = { SPEC_HUNTER_BM, SPEC_HUNTER_MM },
 	offensive = true,
 	duration = 3,
@@ -224,7 +224,7 @@ LCT_SpellData[201430] = {
 LCT_SpellData[120679] = {
 	class = "HUNTER",
 	specID = { SPEC_HUNTER_BM },
-	talent = true,
+	--talent = true,
 	offensive = true,
 	duration = 8,
 	cooldown = 20
@@ -233,7 +233,7 @@ LCT_SpellData[120679] = {
 LCT_SpellData[208652] = {
 	class = "HUNTER",
 	specID = { SPEC_HUNTER_BM },
-	talent = true,
+	--talent = true,
 	offensive = true,
 	duration = 10,
 	cooldown = 30
@@ -242,7 +242,7 @@ LCT_SpellData[208652] = {
 LCT_SpellData[53209] = {
 	class = "HUNTER",
 	specID = { SPEC_HUNTER_BM },
-	talent = true,
+	--talent = true,
 	offensive = true,
 	cooldown = 15
 }
@@ -250,7 +250,7 @@ LCT_SpellData[53209] = {
 LCT_SpellData[194407] = {
 	class = "HUNTER",
 	specID = { SPEC_HUNTER_BM },
-	talent = true,
+	--talent = true,
 	cooldown = 90,
 	duration = 20
 }
@@ -258,7 +258,7 @@ LCT_SpellData[194407] = {
 LCT_SpellData[205691] = {
   class = "HUNTER",
   specID = { SPEC_HUNTER_BM },
-  talent = true,
+  --talent = true,
   offensive = true,
   duration = 30,
   cooldown = 120
@@ -267,7 +267,7 @@ LCT_SpellData[205691] = {
 LCT_SpellData[205691] = {
   class = "HUNTER",
   specID = { SPEC_HUNTER_BM },
-  talent = true,
+  --talent = true,
   defensive = true,
   duration = 3,
   cooldown = 45,
@@ -318,7 +318,7 @@ LCT_SpellData[288613] = {
 LCT_SpellData[198670] = {
 	class = "HUNTER",
 	specID = { SPEC_HUNTER_MM },
-	talent = true,
+	--talent = true,
 	offensive = true,
 	cooldown = 30
 }
@@ -326,7 +326,7 @@ LCT_SpellData[198670] = {
 LCT_SpellData[260402] = {
 	class = "HUNTER",
 	specID = { SPEC_HUNTER_MM },
-	talent = true,
+	--talent = true,
 	offensive = true,
 	duration = 3,
 	cooldown = 60
@@ -396,7 +396,7 @@ LCT_SpellData[187707] = {
 LCT_SpellData[162488] = {
 	class = "HUNTER",
 	specID = { SPEC_HUNTER_SURV },
-	talent = true,
+	--talent = true,
 	cooldown = 30
 }
 -- Wildfire Bomb
@@ -411,7 +411,7 @@ LCT_SpellData[259495] = {
 LCT_SpellData[212436] = {
 	class = "HUNTER",
 	specID = { SPEC_HUNTER_SURV },
-	talent = true,
+	--talent = true,
 	offensive = true,
 	cooldown = 9,
 	replaces = 187708, -- Carve
@@ -420,7 +420,7 @@ LCT_SpellData[212436] = {
 LCT_SpellData[212640] = {
 	class = "HUNTER",
 	specID = { SPEC_HUNTER_SURV },
-	talent = true,
+	--talent = true,
 	defensive = true,
 	cooldown = 25,
 }
@@ -428,7 +428,7 @@ LCT_SpellData[212640] = {
 LCT_SpellData[212638] = {
 	class = "HUNTER",
 	specID = { SPEC_HUNTER_SURV },
-	talent = true,
+	--talent = true,
 	cc = true,
 	cooldown = 25,
 }
@@ -436,7 +436,7 @@ LCT_SpellData[212638] = {
 LCT_SpellData[269751] = {
 	class = "HUNTER",
 	specID = { SPEC_HUNTER_SURV },
-	talent = true,
+	--talent = true,
 	offensive = true,
 	cooldown = 40,
 }
@@ -444,7 +444,7 @@ LCT_SpellData[269751] = {
 LCT_SpellData[259391] = {
 	class = "HUNTER",
 	specID = { SPEC_HUNTER_SURV },
-	talent = true,
+	--talent = true,
 	offensive = true,
 	cooldown = 20,
 }

@@ -66,7 +66,7 @@ LCT_SpellData[116705] = {
 -- Tiger's Lust
 LCT_SpellData[116841] = {
 	class = "MONK",
-	talent = true,
+	--talent = true,
 	defensive = true,
 	duration = 6,
 	cooldown = 30,
@@ -74,7 +74,7 @@ LCT_SpellData[116841] = {
 -- Dampen Harm
 LCT_SpellData[122278] = {
 	class = "MONK",
-	talent = true,
+	--talent = true,
 	defensive = true,
 	duration = 10,
 	cooldown = 120,
@@ -82,14 +82,14 @@ LCT_SpellData[122278] = {
 -- Chi Burst
 LCT_SpellData[123986] = {
 	class = "MONK",
-	talent = true,
+	--talent = true,
 	offensive = true,
 	cooldown = 30,
 }
 -- Chi Torpedo
 LCT_SpellData[115008] = {
 	class = "MONK",
-	talent = true,
+	--talent = true,
 	charges = 2,
 	cooldown = 20,
 	replaces = 109132 -- Roll
@@ -97,13 +97,13 @@ LCT_SpellData[115008] = {
 -- Chi Wave
 LCT_SpellData[115098] = {
 	class = "MONK",
-	talent = true,
+	--talent = true,
 	cooldown = 15
 }
 -- Ring of Peace
 LCT_SpellData[116844] = {
 	class = "MONK",
-	talent = true,
+	--talent = true,
 	defensive = true,
 	duration = 5,
 	cooldown = 45,
@@ -113,7 +113,7 @@ LCT_SpellData[116844] = {
 LCT_SpellData[122783] = {
 	class = "MONK",
 	specID = { SPEC_MONK_MISTWEAVER, SPEC_MONK_WINDWALKER },
-	talent = true,
+	--talent = true,
 	defensive = true,
 	duration = 6,
 	cooldown = 90
@@ -122,7 +122,7 @@ LCT_SpellData[122783] = {
 LCT_SpellData[233759] = {
 	class = "MONK",
 	specID = { SPEC_MONK_MISTWEAVER, SPEC_MONK_WINDWALKER },
-	talent = true,
+	--talent = true,
 	cc = true,
 	duration = 6,
 	cooldown = 60
@@ -188,43 +188,43 @@ LCT_SpellData[115176] = {
 LCT_SpellData[115399] = {
 	class = "MONK",
 	specID = { SPEC_MONK_BREWMASTER },
-	talent = true,
-	talent = true,
+	--talent = true,
+	--talent = true,
 	cooldown = 120
 }
 -- Invoke Niuzao, the Black Ox
 LCT_SpellData[132578] = {
 	class = "MONK",
 	specID = { SPEC_MONK_BREWMASTER },
-	talent = true,
+	--talent = true,
 	cooldown = 180
 }
 -- Summon Black Ox Statue
 LCT_SpellData[115315] = {
 	class = "MONK",
 	specID = { SPEC_MONK_BREWMASTER },
-	talent = true,
+	--talent = true,
 	cooldown = 10,
 }
 -- Rushing Jade Wind (BM)
 LCT_SpellData[116847] = {
 	class = "MONK",
 	specID = { SPEC_MONK_BREWMASTER },
-	talent = true,
+	--talent = true,
 	cooldown = 6
 }
 -- Mighty Ox Kick
 LCT_SpellData[202370] = {
 	class = "MONK",
 	specID = { SPEC_MONK_BREWMASTER },
-	talent = true,
+	--talent = true,
 	cooldown = 30
 }
 -- Guard
 LCT_SpellData[115295] = {
 	class = "MONK",
 	specID = { SPEC_MONK_BREWMASTER },
-	talent = true,
+	--talent = true,
 	defensive = true,
 	cooldown = 30
 }
@@ -232,7 +232,7 @@ LCT_SpellData[115295] = {
 LCT_SpellData[213658] = {
 	class = "MONK",
 	specID = { SPEC_MONK_BREWMASTER },
-	talent = true,
+	--talent = true,
 	charges = 2,
 	cooldown = 60
 }
@@ -247,14 +247,14 @@ LCT_SpellData[207025] = {
 LCT_SpellData[202335] = {
 	class = "MONK",
 	specID = { SPEC_MONK_BREWMASTER },
-	talent = true,
+	--talent = true,
 	cooldown = 45,
 }
 -- Avert Harm
 LCT_SpellData[202162] = {
 	class = "MONK",
 	specID = { SPEC_MONK_BREWMASTER },
-	talent = true,
+	--talent = true,
 	cooldown = 45,
 }
 
@@ -272,7 +272,7 @@ LCT_SpellData[137639] = {
 LCT_SpellData[115288] = {
 	class = "MONK",
 	specID = { SPEC_MONK_WINDWALKER },
-	talent = true,
+	--talent = true,
 	offensive = true,
 	cooldown = 60,
 }
@@ -309,7 +309,7 @@ LCT_SpellData[122470] = {
 LCT_SpellData[261715] = {
 	class = "MONK",
 	specID = { SPEC_MONK_WINDWALKER },
-	talent = true,
+	--talent = true,
 	cooldown = 6
 }
 -- Invoke Xuen, the White Tiger
@@ -324,7 +324,7 @@ LCT_SpellData[123904] = {
 LCT_SpellData[152175] = {
 	class = "MONK",
 	specID = { SPEC_MONK_WINDWALKER },
-	talent = true,
+	--talent = true,
 	offensive = true,
 	cooldown = 24
 }
@@ -332,14 +332,14 @@ LCT_SpellData[152175] = {
 LCT_SpellData[261947] = {
 	class = "MONK",
 	specID = { SPEC_MONK_WINDWALKER },
-	talent = true,
+	--talent = true,
 	cooldown = 30,
 }
 -- Serenity
 LCT_SpellData[152173] = {
 	class = "MONK",
 	specID = { SPEC_MONK_WINDWALKER },
-	talent = true,
+	--talent = true,
 	offensive = true,
 	duration = 8,
 	cooldown = 90,
@@ -395,7 +395,7 @@ LCT_SpellData[116680] = {
 LCT_SpellData[115313] = {
 	class = "MONK",
 	specID = { SPEC_MONK_MISTWEAVER },
-	talent = true,
+	--talent = true,
 	heal = true,
 	cooldown = 10
 }
@@ -403,7 +403,7 @@ LCT_SpellData[115313] = {
 LCT_SpellData[209584] = {
 	class = "MONK",
 	specID = { SPEC_MONK_MISTWEAVER },
-	talent = true,
+	--talent = true,
 	duration = 5,
 	cooldown = 45
 }
@@ -411,7 +411,7 @@ LCT_SpellData[209584] = {
 LCT_SpellData[205234] = {
 	class = "MONK",
 	specID = { SPEC_MONK_MISTWEAVER },
-	talent = true,
+	--talent = true,
 	heal = true,
 	charges = 3,
 	cooldown = 15
@@ -420,7 +420,7 @@ LCT_SpellData[205234] = {
 LCT_SpellData[196725] = {
 	class = "MONK",
 	specID = { SPEC_MONK_MISTWEAVER },
-	talent = true,
+	--talent = true,
 	heal = true,
 	cooldown = 9
 }
@@ -428,7 +428,7 @@ LCT_SpellData[196725] = {
 LCT_SpellData[197908] = {
 	class = "MONK",
 	specID = { SPEC_MONK_MISTWEAVER },
-	talent = true,
+	--talent = true,
 	heal = true,
 	duration = 10,
 	cooldown = 90
@@ -437,7 +437,7 @@ LCT_SpellData[197908] = {
 LCT_SpellData[198898] = {
 	class = "MONK",
 	specID = { SPEC_MONK_MISTWEAVER },
-	talent = true,
+	--talent = true,
 	cc = true,
 	cooldown = 30,
 }

@@ -2,7 +2,7 @@
 LCT_SpellData[12292] = {
   class = "WARRIOR",
   cooldown = 180,
-  talent = true,
+  --talent = true,
 }
 
 -- Shield Block
@@ -15,7 +15,7 @@ LCT_SpellData[2565] = {
 LCT_SpellData[12294] = {
   class = "WARRIOR",
   cooldown = 5,
-  talent = true,
+  --talent = true,
 }
 LCT_SpellData[21552] = 12294
 LCT_SpellData[30330] = 12294
@@ -27,7 +27,7 @@ LCT_SpellData[21551] = 12294
 LCT_SpellData[23881] = {
   class = "WARRIOR",
   cooldown = 6,
-  talent = true,
+  --talent = true,
 }
 LCT_SpellData[23892] = 23881
 LCT_SpellData[23893] = 23881
@@ -65,7 +65,7 @@ LCT_SpellData[23920] = {
 LCT_SpellData[23922] = {
   class = "WARRIOR",
   cooldown = 6,
-  talent = true,
+  --talent = true,
 }
 LCT_SpellData[23923] = 23922
 LCT_SpellData[23924] = 23922
@@ -96,7 +96,7 @@ LCT_SpellData[1680] = {
 LCT_SpellData[12809] = {
   class = "WARRIOR",
   cooldown = 45,
-  talent = true,
+  --talent = true,
 }
 
 -- Pummel
@@ -120,7 +120,7 @@ LCT_SpellData[18499] = {
 LCT_SpellData[676] = {
   class = "WARRIOR",
   cooldown = 60,
-  talent = true,
+  --talent = true,
 }
 
 -- Revenge
@@ -140,7 +140,7 @@ LCT_SpellData[25288] = 6572
 LCT_SpellData[12975] = {
   class = "WARRIOR",
   cooldown = 480,
-  talent = true,
+  --talent = true,
 }
 
 -- Recklessness

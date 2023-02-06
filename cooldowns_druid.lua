@@ -58,7 +58,7 @@ LCT_SpellData[2782] = {
 -- Tiger Dash
 LCT_SpellData[252216] = {
 	class = "DRUID",
-	talent = true,
+	--talent = true,
 	duration = 15,
 	cooldown = 45,
 	replaces = 1850
@@ -66,27 +66,27 @@ LCT_SpellData[252216] = {
 -- Wild Charge
 LCT_SpellData[102401] = {
 	class = "DRUID",
-	talent = true,
+	--talent = true,
 	cooldown = 15
 }
 -- Mass Entanglement
 LCT_SpellData[102359] = {
 	class = "DRUID",
-	talent = true,
+	--talent = true,
 	cc = true,
 	cooldown = 30
 }
 -- Mighty Bash
 LCT_SpellData[5211] = {
 	class = "DRUID",
-	talent = true,
+	--talent = true,
 	stun = true,
 	cooldown = 50
 }
 -- Typhoon
 LCT_SpellData[132469] = {
 	class = "DRUID",
-	talent = true,
+	--talent = true,
 	knockback = true,
 	cooldown = 30
 }
@@ -103,14 +103,14 @@ LCT_SpellData[61336] = {
 LCT_SpellData[305497] = {
 	class = "DRUID",
 	specID = { SPEC_DRUID_BALANCE, SPEC_DRUID_FERAL, SPEC_DRUID_RESTO },
-	talent = true,
+	--talent = true,
 	cooldown = 45
 }
 -- Renewal
 LCT_SpellData[108238] = {
 	class = "DRUID",
 	specID = { SPEC_DRUID_BALANCE, SPEC_DRUID_FERAL, SPEC_DRUID_RESTO },
-	talent = true,
+	--talent = true,
 	heal = true,
 	cooldown = 120
 }
@@ -138,7 +138,7 @@ LCT_SpellData[194223] = {
 LCT_SpellData[102560] = {
 	class = "DRUID",
 	specID = { SPEC_DRUID_BALANCE },
-	talent = true,
+	--talent = true,
 	offensive = true,
 	duration = 30,
 	cooldown = 180,
@@ -148,7 +148,7 @@ LCT_SpellData[102560] = {
 LCT_SpellData[205636] = {
 	class = "DRUID",
 	specID = { SPEC_DRUID_BALANCE },
-	talent = true,
+	--talent = true,
 	duration = 10,
 	cooldown = 60
 }
@@ -156,7 +156,7 @@ LCT_SpellData[205636] = {
 LCT_SpellData[202770] = {
 	class = "DRUID",
 	specID = { SPEC_DRUID_BALANCE },
-	talent = true,
+	--talent = true,
 	duration = 8,
 	cooldown = 60
 }
@@ -164,7 +164,7 @@ LCT_SpellData[202770] = {
 LCT_SpellData[209749] = {
 	class = "DRUID",
 	specID = { SPEC_DRUID_BALANCE },
-	talent = true,
+	--talent = true,
 	cooldown = 30
 }
 
@@ -205,7 +205,7 @@ LCT_SpellData[106951] = {
 LCT_SpellData[102543] = {
 	class = "DRUID",
 	specID = { SPEC_DRUID_FERAL },
-	talent = true,
+	--talent = true,
 	offensive = true,
 	cooldown = 180,
 	duration = 30,
@@ -215,7 +215,7 @@ LCT_SpellData[102543] = {
 LCT_SpellData[236026] = {
 	class = "DRUID",
 	specID = { SPEC_DRUID_FERAL },
-	talent = true,
+	--talent = true,
 	stun = true,
 	cooldown = 20,
 	replaces = 22570
@@ -224,7 +224,7 @@ LCT_SpellData[236026] = {
 LCT_SpellData[203242] = {
 	class = "DRUID",
 	specID = { SPEC_DRUID_FERAL },
-	talent = true,
+	--talent = true,
 	offensive = true,
 	cooldown = 60
 }
@@ -232,14 +232,14 @@ LCT_SpellData[203242] = {
 LCT_SpellData[274837] = {
 	class = "DRUID",
 	specID = { SPEC_DRUID_FERAL },
-	talent = true,
+	--talent = true,
 	cooldown = 45
 }
 -- Brutal Slash
 LCT_SpellData[202028] = {
 	class = "DRUID",
 	specID = { SPEC_DRUID_FERAL },
-	talent = true,
+	--talent = true,
 	cooldown = 8,
 	-- replaces = 213764, -- replaces Swipe which has no cooldown
 }
@@ -249,7 +249,7 @@ LCT_SpellData[202028] = {
 LCT_SpellData[99] = {
 	class = "DRUID",
 	specID = { SPEC_DRUID_GUARDIAN, SPEC_DRUID_BALANCE, SPEC_DRUID_FERAL, SPEC_DRUID_RESTO },
-	talent = true, -- Baseline for Guardian, but talent for other specs
+	--talent = true, -- Baseline for Guardian, but talent for other specs
 	cooldown = 30
 }
 -- Frenzied Regeneration
@@ -265,7 +265,7 @@ LCT_SpellData[22842] = {
 LCT_SpellData[102558] = {
 	class = "DRUID",
 	specID = { SPEC_DRUID_GUARDIAN },
-	talent = true,
+	--talent = true,
 	offensive = true,
 	duration = 30,
 	cooldown = 180
@@ -274,7 +274,7 @@ LCT_SpellData[102558] = {
 LCT_SpellData[204066] = {
 	class = "DRUID",
 	specID = { SPEC_DRUID_GUARDIAN },
-	talent = true,
+	--talent = true,
 	offensive = true,
 	cooldown = 75
 }
@@ -282,7 +282,7 @@ LCT_SpellData[204066] = {
 LCT_SpellData[207017] = {
 	class = "DRUID",
 	specID = { SPEC_DRUID_GUARDIAN },
-	talent = true,
+	--talent = true,
 	cooldown = 20,
 	replaces = 6795
 }
@@ -290,7 +290,7 @@ LCT_SpellData[207017] = {
 LCT_SpellData[207017] = {
 	class = "DRUID",
 	specID = { SPEC_DRUID_GUARDIAN },
-	talent = true,
+	--talent = true,
 	cooldown = 30,
 	replaces = 99 -- Incapacitating Roar
 }
@@ -298,7 +298,7 @@ LCT_SpellData[207017] = {
 LCT_SpellData[155835] = {
 	class = "DRUID",
 	specID = { SPEC_DRUID_GUARDIAN },
-	talent = true,
+	--talent = true,
 	duration = 8,
 	cooldown = 40
 }
@@ -306,14 +306,14 @@ LCT_SpellData[155835] = {
 LCT_SpellData[201664] = {
 	class = "DRUID",
 	specID = { SPEC_DRUID_GUARDIAN },
-	talent = true,
+	--talent = true,
 	cooldown = 30
 }
 -- Emerald Slumber
 LCT_SpellData[329042] = {
 	class = "DRUID",
 	specID = { SPEC_DRUID_GUARDIAN },
-	talent = true,
+	--talent = true,
 	cooldown = 120,
   duration = 8
 }
@@ -360,7 +360,7 @@ LCT_SpellData[48438] = {
 LCT_SpellData[33891] = {
 	class = "DRUID",
 	specID = { SPEC_DRUID_RESTO },
-	talent = true,
+	--talent = true,
 	defensive = true,
 	cooldown = 180,
 }
@@ -381,7 +381,7 @@ LCT_SpellData[132158] = {
 -- Cenarion Ward
 LCT_SpellData[102351] = {
 	class = "DRUID",
-	talent = true,
+	--talent = true,
 	heal = true,
 	duration = 8,
 	cooldown = 30
@@ -390,7 +390,7 @@ LCT_SpellData[102351] = {
 LCT_SpellData[197721] = {
 	class = "DRUID",
 	specID = { SPEC_DRUID_RESTO },
-	talent = true,
+	--talent = true,
 	heal = true,
 	cooldown = 90
 }
@@ -398,7 +398,7 @@ LCT_SpellData[197721] = {
 LCT_SpellData[203651] = {
 	class = "DRUID",
 	specID = { SPEC_DRUID_RESTO },
-	talent = true,
+	--talent = true,
 	heal = true,
 	cooldown = 45
 }

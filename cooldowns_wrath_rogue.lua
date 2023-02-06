@@ -15,7 +15,7 @@ LCT_SpellData[2094] = {
 LCT_SpellData[13877] = {
   cooldown = 120,
   class = "ROGUE",
-  talent = true,
+  --talent = true,
   specID = { SPEC_ROGUE_COMBAT },
 }
 
@@ -24,7 +24,7 @@ LCT_SpellData[14177] = {
   cooldown = 180,
   class = "ROGUE",
   cooldown_starts_on_aura_fade = true,
-  talent = true,
+  --talent = true,
   specID = { SPEC_ROGUE_SUB },
 }
 
@@ -77,7 +77,7 @@ LCT_SpellData[26889] = 1856
 LCT_SpellData[14251] = {
   cooldown = 6,
   class = "ROGUE",
-  talent = true,
+  --talent = true,
   specID = { SPEC_ROGUE_COMBAT },
 }
 
@@ -98,7 +98,7 @@ LCT_SpellData[48659] = 1966
 LCT_SpellData[14278] = {
   cooldown = 20,
   class = "ROGUE",
-  talent = true,
+  --talent = true,
   specID = { SPEC_ROGUE_SUB },
 }
 
@@ -114,7 +114,7 @@ LCT_SpellData[1784] = {
 LCT_SpellData[13750] = {
   cooldown = 180,
   class = "ROGUE",
-  talent = true,
+  --talent = true,
   specID = { SPEC_ROGUE_COMBAT },
 }
 
@@ -123,7 +123,7 @@ LCT_SpellData[13750] = {
 --LCT_SpellData[14183] = {
 --  cooldown = 120,
 --  class = "ROGUE",
---  talent = true,
+--  --talent = true,
 --}
 
 -- Preparation
@@ -131,7 +131,7 @@ LCT_SpellData[14185] = {
   cooldown = 600,
   class = "ROGUE",
   specID = { SPEC_ROGUE_SUB },
-  talent = true,
+  --talent = true,
   resets = {
     -- Always reset
     5277, 2983, 1856, 14177, 36554,
@@ -164,7 +164,7 @@ LCT_SpellData[31224] = {
 LCT_SpellData[51713] = {
   class = "ROGUE",
   cooldown = 60,
-  talent = true,
+  --talent = true,
   specID = { SPEC_ROGUE_SUB },
 }
 
@@ -178,6 +178,6 @@ LCT_SpellData[51722] = {
 LCT_SpellData[51690] = {
   class = "ROGUE",
   cooldown = 120,
-  talent = true,
+  --talent = true,
   specID = { SPEC_ROGUE_COMBAT },
 }
