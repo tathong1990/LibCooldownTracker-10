@@ -53,7 +53,7 @@ LCT_SpellData[108416] = {
 	talent = true,
 	defensive = true,
 	duration = 20,
-	cooldown = 60
+	cooldown = 45
 }
 -- Curse of Fragility
 LCT_SpellData[199954] = {
