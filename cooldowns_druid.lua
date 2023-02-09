@@ -332,7 +332,7 @@ LCT_SpellData[102342] = {
 	specID = { SPEC_DRUID_RESTO },
 	defensive = true,
 	duration = 12,
-	cooldown = 90,
+	cooldown = 70,
 }
 -- Nature's Cure
 LCT_SpellData[88423] = {

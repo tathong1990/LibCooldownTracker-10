@@ -381,7 +381,7 @@ LCT_SpellData[115310] = {
 	class = "MONK",
 	specID = { SPEC_MONK_MISTWEAVER },
 	mass_dispel = true,
-	cooldown = 180
+	cooldown = 90
 }
 -- Thunder Focus Tea
 LCT_SpellData[116680] = {

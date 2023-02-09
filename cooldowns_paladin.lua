@@ -258,7 +258,7 @@ LCT_SpellData[216331] = {
 	defensive = true,
 	duration = 25,
 	cooldown = 120,
-	replaces = 31884,
+	--replaces = 31884,
   cooldown_starts_on_aura_duration = true,
 }
 

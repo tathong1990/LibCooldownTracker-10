@@ -190,7 +190,7 @@ LCT_SpellData[62618] = {
 	specID = { SPEC_PRIEST_DISC },
 	defensive = true,
 	duration = 10,
-	cooldown = 180,
+	cooldown = 90,
 	opt_lower_cooldown = 90, -- with 197590 Dome of Light
 }
 -- Rapture
