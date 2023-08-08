@@ -3,7 +3,10 @@ pipeline {
   stages {
     stage('start') {
       steps {
-        retry(count: 3)
+        retry(count: 3) {
+          echo 'start'
+        }
+
       }
     }
 
