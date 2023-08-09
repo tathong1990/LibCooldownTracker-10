@@ -12,7 +12,7 @@ pipeline {
 
     stage('end') {
       steps {
-        echo 'end'
+        echo 'end commit'
       }
     }
 
