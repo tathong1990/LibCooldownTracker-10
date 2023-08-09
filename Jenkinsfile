@@ -4,7 +4,7 @@ pipeline {
     stage('start') {
       steps {
         retry(count: 3) {
-          echo 'start1'
+          echo 'start2'
         }
 
       }
